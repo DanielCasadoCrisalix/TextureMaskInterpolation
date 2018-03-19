@@ -798,6 +798,7 @@ public class Math3D {
 		else{
  
 			return 1;
+
 		}
 	}
  
@@ -879,7 +880,21 @@ public class Math3D {
  
 		return circleDistance;
 	}
- 
+	public static bool PolyContainsPoint ( Vector2[] polyPoints, Vector3 p) { 
+		
+		int j = polyPoints.Length-1; 
+		bool inside = false; 
+		for (int i = 0; i < polyPoints.Length; j = i++) { 
+
+			Vector3 polyPoint = polyPoints[i];
+			Vector3 polyPoint2 = polyPoints[j];
+
+			if ( ((polyPoint.y <= p.y && p.y < polyPoint2.y) || (polyPoint2.y <= p.y && p.y <polyPoint.y)) && 
+			     (p.x < (polyPoint2.y - polyPoint.x) * (p.y - polyPoint.y) / (polyPoint2.y - polyPoint.y) + polyPoint.x)) 
+				inside = !inside; 
+		} 
+		return inside; 
+	}
 	//Returns true if a line segment (made up of linePoint1 and linePoint2) is fully or partially in a rectangle
 	//made up of RectA to RectD. The line segment is assumed to be on the same plane as the rectangle. If the line is 
 	//not on the plane, use ProjectPointOnPlane() on linePoint1 and linePoint2 first.

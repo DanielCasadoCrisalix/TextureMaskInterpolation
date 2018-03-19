@@ -13,6 +13,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="AlphaMaskToTexture.cs" t="Include" />
           <e p="Math3D.cs" t="Include" />
           <e p="TextureAlphaAdder.cs" t="Include" />
           <e p="Vector3DebuggerPoints.cs" t="Include" />
