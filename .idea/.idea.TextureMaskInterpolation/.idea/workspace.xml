@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="504939ce-010c-49af-b3b4-172f4a3cb0f8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Math3D.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Math3D.cs.meta" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Masks/bigMaskMammo.png.meta" afterPath="$PROJECT_DIR$/Assets/Textures/Masks/bigMaskMammo.png.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Masks/smallMaskMammo.png.meta" afterPath="$PROJECT_DIR$/Assets/Textures/Masks/smallMaskMammo.png.meta" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/72/7272edb1bc6fa419eae396f9653b84ec" afterPath="$PROJECT_DIR$/Library/metadata/72/7272edb1bc6fa419eae396f9653b84ec" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/72/7272edb1bc6fa419eae396f9653b84ec.info" afterPath="$PROJECT_DIR$/Library/metadata/72/7272edb1bc6fa419eae396f9653b84ec.info" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/94/94b108681d127493bb8f68cb79ca2700" afterPath="$PROJECT_DIR$/Library/metadata/94/94b108681d127493bb8f68cb79ca2700" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/94/94b108681d127493bb8f68cb79ca2700.info" afterPath="$PROJECT_DIR$/Library/metadata/94/94b108681d127493bb8f68cb79ca2700.info" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f8/f8a83198366054501941fed463645fe8" afterPath="$PROJECT_DIR$/Library/metadata/f8/f8a83198366054501941fed463645fe8" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-25069977109314967828d10404700b41" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-5195e1d428f6b46219a063a5cd153f75" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8caada7e0b04b4bbb9cf65e0390d86b9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b5fb52e1288cc4b9983a661b59090002" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c05963092a78347a0be70c31c890f2b2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-eb257d931824c428cb04a445151e0d45" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-fc154736d48ef4ecc9d8a87cb162d020" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ff85f99c3266a43f2b80d593debf8c7a" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/testTextureMask.sln" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/testTextureMask1.sln" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TextureAlphaAdder.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="822">
+              <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+              <folding>
+                <marker date="1521458163000" expanded="true" signature="6:101" ph="..." />
+                <marker date="1521458163000" expanded="true" signature="149:6976" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="540:667" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="736:1664" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="749:885" ph="/* if (bodyTexture.width != _smallMask.width &amp;&amp; bodyTexture.height != _smallMask.height) ... */" />
+                <marker date="1521458163000" expanded="true" signature="1355:1555" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="1741:2360" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="2530:2542" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="2613:2841" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="2712:2772" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="3114:4683" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="3301:4176" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="4359:4464" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="4529:4643" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="4774:4934" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="4991:6558" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="5319:6485" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="5373:6475" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="5738:6334" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="5868:6198" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="6223:6316" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="6355:6436" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="6698:6881" ph="{...}" />
+                <marker date="1521458163000" expanded="true" signature="6920:6974" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DebugInTexture</find>
+      <find>projectpoint</find>
+      <find>widt</find>
+      <find>texture2D</find>
+      <find>sphere</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE80D394-025E-4F19-8E31-2DBA649C0E9C/5d/e0de56be/Texture2D.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Math3D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vector3DebuggerPoints.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/drive-download-20180319T093446Z-001/LimitForTexture.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Vector3DebuggerPoints.cs" />
+        <option value="$USER_HOME$/Downloads/drive-download-20180319T093446Z-001/LimitForTexture.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Math3D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="2048" />
+    <option name="height" value="1129" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TextureMaskInterpolation (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TextureMaskInterpolation (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TextureMaskInterpolation (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="TextureMaskInterpolation (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="504939ce-010c-49af-b3b4-172f4a3cb0f8" name="Default" comment="" />
+      <created>1521212223282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521212223282</updated>
+      <workItem from="1521212226277" duration="18053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18053000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2048" height="1129" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE80D394-025E-4F19-8E31-2DBA649C0E9C/5d/e0de56be/Texture2D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="11" lean-forward="false" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Vector3DebuggerPoints.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="73" lean-forward="true" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+          <folding>
+            <marker date="1521453453000" expanded="true" signature="52:849" ph="{...}" />
+            <marker date="1521453453000" expanded="true" signature="100:847" ph="{...}" />
+            <marker date="1521453453000" expanded="true" signature="198:320" ph="{...}" />
+            <marker date="1521453453000" expanded="true" signature="426:841" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/drive-download-20180319T093446Z-001/LimitForTexture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Math3D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="490" column="51" lean-forward="false" selection-start-line="490" selection-start-column="26" selection-end-line="490" selection-end-column="51" />
+          <folding>
+            <marker date="1521453735000" expanded="true" signature="6:66" ph="..." />
+            <marker date="1521453735000" expanded="true" signature="89:44763" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="479:965" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="969:1346" ph="/* Get a point on a Catmull-Rom spline. ... */" />
+            <marker date="1521453735000" expanded="true" signature="1424:2577" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="1477:2528" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="1973:2331" ph="/* The Catmull-Rom spline can be written as: ... */" />
+            <marker date="1521453735000" expanded="true" signature="2530:2574" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="2581:3798" ph="/* Finds the intersection points between a straight line and a spline. Solves a Cubic polynomial equation ... */" />
+            <marker date="1521453735000" expanded="true" signature="3890:9288" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="4001:4204" ph="/* The line spline intersection can only be calculated for one segment of a spline, meaning 4 control points, ... */" />
+            <marker date="1521453735000" expanded="true" signature="4245:9197" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="4443:5766" ph="/* The Catmull-Rom spline can be written as: ... */" />
+            <marker date="1521453735000" expanded="true" signature="6168:6459" ph="/* We now have two Cubic functions. One for x and one for y. ... */" />
+            <marker date="1521453735000" expanded="true" signature="6685:7108" ph="/* Substituting the values of x and y from the separated Spline formula into the Line formula, we get: ... */" />
+            <marker date="1521453735000" expanded="true" signature="7240:7583" ph="/* This is again a Cubic equation, combined from the Line and the Spline equation. If you solve this you can get  ... */" />
+            <marker date="1521453735000" expanded="true" signature="7687:7831" ph="/* Two different implementations of solving a Cubic equation. ... */" />
+            <marker date="1521453735000" expanded="true" signature="8224:8427" ph="/* Only use the result if it is within range 0 to 1. ... */" />
+            <marker date="1521453735000" expanded="true" signature="8463:8681" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="8719:8937" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="8975:9193" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="9292:9411" ph="/* Solve cubic equation according to Cardano. ... */" />
+            <marker date="1521453735000" expanded="true" signature="9538:10701" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="9952:10285" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="10309:10521" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="10523:10698" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="10815:10930" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="10835:10877" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="10879:10927" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="11054:11360" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="11489:11634" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="11760:11824" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="11925:11969" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="12145:12206" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="12396:12478" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="12482:12678" ph="/* Rotate a vector as if it is attached to an object with rotation &quot;from&quot;, which is then rotated to rotation &quot;to&quot; ... */" />
+            <marker date="1521453735000" expanded="true" signature="12768:13159" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="13163:13440" ph="/* Find the line of intersection between two planes.&#9;The planes are defined by a normal and a point on that plane ... */" />
+            <marker date="1521453735000" expanded="true" signature="13619:14910" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="13681:13957" ph="/* We can get the direction of the line of intersection of the two planes by calculating the ... */" />
+            <marker date="1521453735000" expanded="true" signature="14017:14401" ph="/* Next is to calculate a point on the line to fix it's position in space. This is done by finding a vector from ... */" />
+            <marker date="1521453735000" expanded="true" signature="14657:14855" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="14878:14907" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="14915:15053" ph="/* Get the intersection between a line and a plane. ... */" />
+            <marker date="1521453735000" expanded="true" signature="15198:15931" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="15591:15876" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="15899:15928" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="15935:16188" ph="/* Calculate the intersection point of two lines. Returns true if lines intersect, otherwise false. ... */" />
+            <marker date="1521453735000" expanded="true" signature="16331:16905" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="16682:16838" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="16845:16902" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="16909:17150" ph="/* Two non-parallel lines which may or may not touch each other have a point on each line which are closest ... */" />
+            <marker date="1521453735000" expanded="true" signature="17332:17955" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="17614:17921" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="17923:17952" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="17960:18135" ph="/* This function returns a point which is a projection from a point to a line. ... */" />
+            <marker date="1521453735000" expanded="true" signature="18228:18426" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="18430:18728" ph="/* This function returns a point which is a projection from a point to a line segment. ... */" />
+            <marker date="1521453735000" expanded="true" signature="18832:19294" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="19117:19150" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="19168:19197" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="19215:19244" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="19476:19897" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="20046:20120" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="20124:20279" ph="/* Get the shortest distance between a point and a plane. The output is signed so it holds information ... */" />
+            <marker date="1521453735000" expanded="true" signature="20381:20444" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="20449:20912" ph="/* This function calculates a signed (+ or - sign instead of being ambiguous) dot product. It is basically used ... */" />
+            <marker date="1521453735000" expanded="true" signature="21000:21359" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="21462:21907" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="21911:22025" ph="/* Calculate the angle between a vector and a plane. The plane is made by a normal vector. ... */" />
+            <marker date="1521453735000" expanded="true" signature="22095:22397" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="22505:22951" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="22732:22753" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="22777:22796" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="22801:22897" ph="/* Calculate the angle. The output is in radians ... */" />
+            <marker date="1521453735000" expanded="true" signature="22955:23111" ph="/* Convert a plane defined by 3 points to a plane defined by a vector and a point. ... */" />
+            <marker date="1521453735000" expanded="true" signature="23245:24211" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="23838:24093" ph="/* Calculate the intersection between the two lines. This will be the center ... */" />
+            <marker date="1521453735000" expanded="true" signature="24313:24349" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="24441:24472" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="24570:24604" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="24701:24775" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="24865:24994" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="24998:25547" ph="/* This is an alternative for Quaternion.LookRotation. Instead of aligning the forward and up vector of the game ... */" />
+            <marker date="1521453735000" expanded="true" signature="25711:26196" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="25845:26006" ph="/* Set the rotation of the custom normal and up vectors. ... */" />
+            <marker date="1521453735000" expanded="true" signature="26200:26749" ph="/* This function transforms one object as if it was parented to the other. ... */" />
+            <marker date="1521453735000" expanded="true" signature="27017:27723" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="27727:28514" ph="/* With this function you can align a triangle of an object with any transform. ... */" />
+            <marker date="1521453735000" expanded="true" signature="28731:29289" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="29502:29661" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="29665:30153" ph="/* This function finds out on which side of a line segment the point is located. ... */" />
+            <marker date="1521453735000" expanded="true" signature="30257:30855" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="30469:30685" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="30553:30575" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="30651:30681" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="30690:30825" ph="/* Point is not on side of linePoint2, compared to linePoint1. ... */" />
+            <marker date="1521453735000" expanded="true" signature="30825:30852" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="30861:31094" ph="/* Returns the pixel distance from the mouse pointer to a line. ... */" />
+            <marker date="1521453735000" expanded="true" signature="31175:32025" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="31275:31317" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="31319:31365" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="32031:32363" ph="/* Returns the pixel distance from the mouse pointer to a camera facing circle. ... */" />
+            <marker date="1521453735000" expanded="true" signature="32435:33184" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="32535:32577" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="32579:32625" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="33188:33495" ph="/* Returns true if a line segment (made up of linePoint1 and linePoint2) is fully or partially in a rectangle ... */" />
+            <marker date="1521453735000" expanded="true" signature="33633:34510" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="33795:33880" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="33985:34475" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="34410:34435" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="34437:34471" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="34477:34507" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="34514:34722" ph="/* Returns true if &quot;point&quot; is in a rectangle mad up of RectA to RectD. The line point is assumed to be on the sam ... */" />
+            <marker date="1521453735000" expanded="true" signature="34836:35606" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="35547:35570" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="35572:35603" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="35610:35782" ph="/* Returns true if line segment made up of pointA1 and pointA2 is crossing line segment made up of ... */" />
+            <marker date="1521453735000" expanded="true" signature="35894:36552" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="36237:36493" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="36428:36453" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="36455:36489" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="36518:36549" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="36556:37113" ph="/* This function calculates the acceleration vector in meter/second^2. ... */" />
+            <marker date="1521453735000" expanded="true" signature="37203:39506" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="37361:37499" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
+            <marker date="1521453735000" expanded="true" signature="37517:37540" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="37588:37680" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="37685:37926" ph="/* Fill the position and time sample array and shift the location in the array to the left ... */" />
+            <marker date="1521453735000" expanded="true" signature="37981:38082" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="38349:39470" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="38445:39071" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="38645:38673" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="38868:38896" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="39472:39503" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="39512:41005" ph="/* This function calculates angular acceleration in object space as deg/second^2, encoded as a vector. ... */" />
+            <marker date="1521453735000" expanded="true" signature="41099:43478" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="41260:41398" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
+            <marker date="1521453735000" expanded="true" signature="41416:41439" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="41487:41582" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="41587:41828" ph="/* Fill the rotation and time sample array and shift the location in the array to the left ... */" />
+            <marker date="1521453735000" expanded="true" signature="41883:41984" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="42251:43442" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="42347:43043" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="42564:42592" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="42822:42850" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="43444:43475" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="43482:43615" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
+            <marker date="1521453735000" expanded="true" signature="43687:43734" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="43738:43871" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
+            <marker date="1521453735000" expanded="true" signature="43962:44089" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="44093:44169" ph="/* Convert a rotation difference to a speed vector. ... */" />
+            <marker date="1521453735000" expanded="true" signature="44249:44761" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="44326:44364" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="44366:44420" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="44461:44499" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="44501:44555" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="44596:44634" ph="{...}" />
+            <marker date="1521453735000" expanded="true" signature="44636:44690" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+          <folding>
+            <marker date="1521458163000" expanded="true" signature="6:101" ph="..." />
+            <marker date="1521458163000" expanded="true" signature="149:6976" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="540:667" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="736:1664" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="749:885" ph="/* if (bodyTexture.width != _smallMask.width &amp;&amp; bodyTexture.height != _smallMask.height) ... */" />
+            <marker date="1521458163000" expanded="true" signature="1355:1555" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="1741:2360" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="2530:2542" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="2613:2841" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="2712:2772" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="3114:4683" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="3301:4176" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="4359:4464" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="4529:4643" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="4774:4934" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="4991:6558" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="5319:6485" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="5373:6475" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="5738:6334" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="5868:6198" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="6223:6316" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="6355:6436" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="6698:6881" ph="{...}" />
+            <marker date="1521458163000" expanded="true" signature="6920:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
