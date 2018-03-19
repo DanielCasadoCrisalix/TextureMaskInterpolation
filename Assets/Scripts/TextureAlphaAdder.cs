@@ -17,9 +17,6 @@ public class TextureAlphaAdder : MonoBehaviour
     [SerializeField] private Texture2D _result;
     private int _height;
     private int _width;
-    private List<float> _maskTransparencies;
-    private List<Vector2> _initialMaskPoints;
-    private List<Vector2> _fixedAlphaPoints;
 
     private void Start()
     {
@@ -48,7 +45,6 @@ public class TextureAlphaAdder : MonoBehaviour
             Debug.LogError("Check mask, and bodytexture sizes. They must to be the same");
             return;
         }
-        _initialMaskPoints = new List<Vector2>();
 
         List<Color> textureColors = _bodyTexture.GetPixels(0, 0, _width, _height).ToList();
 
@@ -87,7 +83,7 @@ public class TextureAlphaAdder : MonoBehaviour
                 ; //textureColors[cntr];
                 float alpha = GetPixelTranparency(point, interpolatedMask, minimumInterpolatedMask);
                 color.b = alpha;
-                Vector3DebuggerPoints.CreateCubeInPos(point, color);
+               // Vector3DebuggerPoints.CreateCubeInPos(point, color);
                 textureColors[cntr] = color;
                 cntr++;
             }
@@ -192,18 +188,17 @@ public class TextureAlphaAdder : MonoBehaviour
         {
             for (int x = 0; x < _width; x++)
             {
-                int indexUp = y == 0 ? (_height - 1) * _width + x : cntr - _width;
-                int indexDown = y == _height - 1 ? x : cntr + _width;
-                int indexRight = x == _width - 1 ? cntr - _width : cntr + 1;
-                int indexLeft = x == 0 ? cntr + _width : cntr - 1;
-
-                if (!arrayTexture[cntr].Equals(Color.black))
+                if (arrayTexture[cntr].Equals(Color.white))
                 {
-                    Vector2 pos = new Vector3(x, y);
-                    _initialMaskPoints.Add(pos);
-
-                    if (!AllAroundPixelColorsAreBlack(arrayTexture, indexUp, indexDown, indexRight, indexLeft))
-                    {
+                    int indexUp = y == 0 ? (_height - 1) * _width + x : cntr - _width;
+                    int indexDown = y == _height - 1 ? x : cntr + _width;
+                    int indexRight = x == _width - 1 ? cntr - _width : cntr + 1;
+                    int indexLeft = x == 0 ? cntr + _width : cntr - 1;
+                    
+                    if (!AllAroundPixelColorsAreWhite(arrayTexture, indexUp, indexDown, indexRight, indexLeft))
+                    {    
+                        Vector3 pos = new Vector3(x, y,5);
+                        Vector3DebuggerPoints.CreateSphereInPos(pos,Color.yellow);
                         borderPositions.Add(pos);
                     }
                 }
@@ -227,7 +222,7 @@ public class TextureAlphaAdder : MonoBehaviour
         return center;
     }
 
-    private bool AllAroundPixelColorsAreBlack(List<Color> arrayTexture, int indexUp, int indexDown, int indexRight,
+    private bool AllAroundPixelColorsAreWhite(List<Color> arrayTexture, int indexUp, int indexDown, int indexRight,
         int indexLeft)
     {
         return IsWhite(arrayTexture[indexUp]) && IsWhite(arrayTexture[indexDown]) &&
