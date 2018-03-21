@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using Crisalix.Visualization;
+using UnityEditor;
 using UnityEngine;
 
 public class TextureAlphaAdder : MonoBehaviour
@@ -64,8 +65,12 @@ public class TextureAlphaAdder : MonoBehaviour
     private void ExportTextureToFile()
     {
         byte[] bytes = _result.EncodeToPNG();
-        string path = Application.dataPath + "Mask_" + _maximumFactor + "_" + _interpolationFactor + ".png";
+        string path = Application.dataPath + "/Mask_" + _maximumFactor + "_" + _interpolationFactor + ".png";
+        Debug.Log("ExportTextureToFile " + path);
+
         File.WriteAllBytes(path, bytes);
+
+        AssetDatabase.Refresh();
     }
 
     private void GetMaskedTexture(float maximumFactor)
@@ -113,7 +118,7 @@ public class TextureAlphaAdder : MonoBehaviour
         {
             for (int j = 0; j < _width; j++)
             {
-                Color color = textureColors[cntr];//Color.white;
+                Color color = Color.white; //textureColors[cntr];
                 float alpha = 0;
 
                 if (_initialMaskPos.x < j && j < _endMaskPos.x && _initialMaskPos.y < i && i < _endMaskPos.y)
@@ -127,7 +132,6 @@ public class TextureAlphaAdder : MonoBehaviour
                 cntr++;
             }
         }
-
         return textureColors;
     }
 
@@ -161,7 +165,7 @@ public class TextureAlphaAdder : MonoBehaviour
             (pointOnLineProjection - interpolatedMask[closestLineIndex]).magnitude;
 
         float alpha = (projectedToInterpolatedPoint / segmentMagnitude);
-        alpha = 1-Mathf.Pow(1-alpha, _interpolationFactor);
+        alpha = 1 - Mathf.Pow(1 - alpha, _interpolationFactor);
 
         return alpha;
     }
