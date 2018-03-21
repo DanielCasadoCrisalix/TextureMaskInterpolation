@@ -2,24 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="504939ce-010c-49af-b3b4-172f4a3cb0f8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TextureMaskInterpolation/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TextureMaskInterpolation/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TextureMaskInterpolation/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.TextureMaskInterpolation/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Math3D.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Math3D.cs" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Masks/MaskTest1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Masks/MaskTest1.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Masks/MaskTest2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Masks/MaskTest2.png.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Masks/bigMaskMammo.png" afterPath="$PROJECT_DIR$/Assets/Textures/Masks/bigMaskMammo.png" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Masks/bigMaskMammo.png.meta" afterPath="$PROJECT_DIR$/Assets/Textures/Masks/bigMaskMammo.png.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Masks/smallMaskMammo.png" afterPath="$PROJECT_DIR$/Assets/Textures/Masks/smallMaskMammo.png" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Masks/smallMaskMammo.png.meta" afterPath="$PROJECT_DIR$/Assets/Textures/Masks/smallMaskMammo.png.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/myTexture.jpg.meta" afterPath="$PROJECT_DIR$/Assets/Textures/myTexture.jpg.meta" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/texturNormal.mat" afterPath="$PROJECT_DIR$/Assets/Textures/texturNormal.mat" />
       <change beforePath="$PROJECT_DIR$/Assets/test.unity" afterPath="$PROJECT_DIR$/Assets/test.unity" />
-      <change beforePath="$PROJECT_DIR$/Library/AnnotationManager" afterPath="$PROJECT_DIR$/Library/AnnotationManager" />
       <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" afterPath="$PROJECT_DIR$/Library/assetDatabase3" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/00/00000000000000009000000000000000" afterPath="$PROJECT_DIR$/Library/metadata/00/00000000000000009000000000000000" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/ab/ab08a1b67b09545b79270e23fc10a253.info" afterPath="$PROJECT_DIR$/Library/metadata/ab/ab08a1b67b09545b79270e23fc10a253.info" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/07/078890148beaa458aa8cae3d1507019e" afterPath="$PROJECT_DIR$/Library/metadata/07/078890148beaa458aa8cae3d1507019e" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/07/078890148beaa458aa8cae3d1507019e.info" afterPath="$PROJECT_DIR$/Library/metadata/07/078890148beaa458aa8cae3d1507019e.info" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/37/37bcd94929ed2445ea03405df0f7e7a0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/37/37bcd94929ed2445ea03405df0f7e7a0.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/6f/6fbf3390a27a14c04aaf842937899a9d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/6f/6fbf3390a27a14c04aaf842937899a9d.info" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/72/7272edb1bc6fa419eae396f9653b84ec" afterPath="$PROJECT_DIR$/Library/metadata/72/7272edb1bc6fa419eae396f9653b84ec" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/72/7272edb1bc6fa419eae396f9653b84ec.info" afterPath="$PROJECT_DIR$/Library/metadata/72/7272edb1bc6fa419eae396f9653b84ec.info" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/83/835831b5692b48238cc89f415c04bd34" afterPath="$PROJECT_DIR$/Library/metadata/83/835831b5692b48238cc89f415c04bd34" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/94/94b108681d127493bb8f68cb79ca2700" afterPath="$PROJECT_DIR$/Library/metadata/94/94b108681d127493bb8f68cb79ca2700" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/94/94b108681d127493bb8f68cb79ca2700.info" afterPath="$PROJECT_DIR$/Library/metadata/94/94b108681d127493bb8f68cb79ca2700.info" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f0/f05221c83fed4448e895a15347ac41d3.info" afterPath="$PROJECT_DIR$/Library/metadata/f0/f05221c83fed4448e895a15347ac41d3.info" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/f8/f8a83198366054501941fed463645fe8" afterPath="$PROJECT_DIR$/Library/metadata/f8/f8a83198366054501941fed463645fe8" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-30adf41f1ba5e4561a37014d165fa157" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3ef1f2ed0a0d841f99b79242fce82174" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9e6ed09eee306461e868f45378378a42" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-02ebd432562cb4a96a5e53abfca12dfb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-045c1636368254eedad1de4af3ed354f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-049e5c5cf0d5249a0a65c6417e32dac9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-094e532ba923f4c938816d1e2bddb152" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-224678553508c4535b2d71e585841e69" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2b498eeff80f948ecbf5be20ed02aa93" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-356de14b829704ba5a6c50277cd6f416" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-406ef7f695bbd4d48a01dff9cde7b13f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-439d9a20e44914b859472cab7d04d10b" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4b7070e6e25714a2ebc195feba9800aa" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-56def5b630d6b444ab90979a425dd9d3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-60131da6fce574e0ca6e76c2d0b33773" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-736698a0562c54d9181500d593cbaf65" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7d528c7bcf074432f9b7b0ca7369cac8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-7ef1c6c182c1d4de9a0a240e96248772" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9b77480891f09407c9e32c93b4836433" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a1a89557b221845b49c90d39f7c9d159" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a72258ddd84204accafd8d5a1784c5b2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bea96cb95969241bbae3035bca59d224" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ca70710e589b04fe89a2db1153fba582" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cf2b3047b122642dfa5b0e35ca853117" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d5c03fe127f3f485a9bb5a6a1edf6a2c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-da17d08308c9d40b39cfd1647cf1bfee" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-db5342bdaa4f544a3b74661b2bc8cf13" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f0e4cfeb0d87f40d3bf78d6fcdc73e9c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-f4736227443e442958cb1fb25d6435b7" afterPath="" />
       <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,211 +77,48 @@
       <file leaf-file-name="TextureAlphaAdder.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="128" column="72" lean-forward="false" selection-start-line="128" selection-start-column="72" selection-end-line="128" selection-end-column="72" />
+            <state relative-caret-position="2385">
+              <caret line="164" column="0" lean-forward="true" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
               <folding>
-                <marker date="1521556523000" expanded="true" signature="6:115" ph="..." />
-                <marker date="1521556523000" expanded="true" signature="163:10091" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="870:1096" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="1123:1360" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="1170:1354" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="1437:2433" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="1519:1650" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="2496:2625" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="2773:3461" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="2844:3424" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="2899:3414" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="3107:3297" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="3594:4637" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="3801:4209" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="4034:4199" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="4907:7099" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="5235:6797" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="5480:5867" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="7214:7409" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="7496:9335" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="7854:8912" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="7909:8902" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="7983:8863" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="8427:8668" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="9390:9504" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="9426:9474" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="9559:9673" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="9595:9643" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="9813:9996" ph="{...}" />
-                <marker date="1521556523000" expanded="true" signature="10035:10089" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Math3D.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Math3D.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="479" column="53" lean-forward="false" selection-start-line="479" selection-start-column="53" selection-end-line="479" selection-end-column="53" />
-              <folding>
-                <marker date="1521473836000" expanded="false" signature="6:66" ph="..." />
-                <marker date="1521473836000" expanded="true" signature="89:45294" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="479:965" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="969:1346" ph="/* Get a point on a Catmull-Rom spline. ... */" />
-                <marker date="1521473836000" expanded="true" signature="1424:2577" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="1477:2528" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="1973:2331" ph="/* The Catmull-Rom spline can be written as: ... */" />
-                <marker date="1521473836000" expanded="true" signature="2530:2574" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="2581:3798" ph="/* Finds the intersection points between a straight line and a spline. Solves a Cubic polynomial equation ... */" />
-                <marker date="1521473836000" expanded="true" signature="3890:9288" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="4001:4204" ph="/* The line spline intersection can only be calculated for one segment of a spline, meaning 4 control points, ... */" />
-                <marker date="1521473836000" expanded="true" signature="4245:9197" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="4443:5766" ph="/* The Catmull-Rom spline can be written as: ... */" />
-                <marker date="1521473836000" expanded="true" signature="6168:6459" ph="/* We now have two Cubic functions. One for x and one for y. ... */" />
-                <marker date="1521473836000" expanded="true" signature="6685:7108" ph="/* Substituting the values of x and y from the separated Spline formula into the Line formula, we get: ... */" />
-                <marker date="1521473836000" expanded="true" signature="7240:7583" ph="/* This is again a Cubic equation, combined from the Line and the Spline equation. If you solve this you can get  ... */" />
-                <marker date="1521473836000" expanded="true" signature="7687:7831" ph="/* Two different implementations of solving a Cubic equation. ... */" />
-                <marker date="1521473836000" expanded="true" signature="8224:8427" ph="/* Only use the result if it is within range 0 to 1. ... */" />
-                <marker date="1521473836000" expanded="true" signature="8463:8681" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="8719:8937" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="8975:9193" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="9292:9411" ph="/* Solve cubic equation according to Cardano. ... */" />
-                <marker date="1521473836000" expanded="true" signature="9538:10701" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="9952:10285" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="10309:10521" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="10523:10698" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="10815:10930" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="10835:10877" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="10879:10927" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="11054:11360" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="11489:11634" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="11760:11824" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="11925:11969" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="12145:12206" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="12396:12478" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="12482:12678" ph="/* Rotate a vector as if it is attached to an object with rotation &quot;from&quot;, which is then rotated to rotation &quot;to&quot; ... */" />
-                <marker date="1521473836000" expanded="true" signature="12768:13159" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="13163:13440" ph="/* Find the line of intersection between two planes.&#9;The planes are defined by a normal and a point on that plane ... */" />
-                <marker date="1521473836000" expanded="true" signature="13619:14910" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="13681:13957" ph="/* We can get the direction of the line of intersection of the two planes by calculating the ... */" />
-                <marker date="1521473836000" expanded="true" signature="14017:14401" ph="/* Next is to calculate a point on the line to fix it's position in space. This is done by finding a vector from ... */" />
-                <marker date="1521473836000" expanded="true" signature="14657:14855" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="14878:14907" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="14915:15053" ph="/* Get the intersection between a line and a plane. ... */" />
-                <marker date="1521473836000" expanded="true" signature="15198:15931" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="15591:15876" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="15899:15928" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="15935:16188" ph="/* Calculate the intersection point of two lines. Returns true if lines intersect, otherwise false. ... */" />
-                <marker date="1521473836000" expanded="true" signature="16331:16905" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="16682:16838" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="16845:16902" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="16909:17150" ph="/* Two non-parallel lines which may or may not touch each other have a point on each line which are closest ... */" />
-                <marker date="1521473836000" expanded="true" signature="17332:17955" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="17614:17921" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="17923:17952" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="17960:18135" ph="/* This function returns a point which is a projection from a point to a line. ... */" />
-                <marker date="1521473836000" expanded="true" signature="18228:18426" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="18430:18728" ph="/* This function returns a point which is a projection from a point to a line segment. ... */" />
-                <marker date="1521473836000" expanded="true" signature="18832:19294" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="19117:19150" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="19168:19197" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="19215:19244" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="19476:19897" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="20046:20120" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="20124:20279" ph="/* Get the shortest distance between a point and a plane. The output is signed so it holds information ... */" />
-                <marker date="1521473836000" expanded="true" signature="20381:20444" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="20449:20912" ph="/* This function calculates a signed (+ or - sign instead of being ambiguous) dot product. It is basically used ... */" />
-                <marker date="1521473836000" expanded="true" signature="21000:21359" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="21462:21907" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="21911:22025" ph="/* Calculate the angle between a vector and a plane. The plane is made by a normal vector. ... */" />
-                <marker date="1521473836000" expanded="true" signature="22095:22397" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="22505:22951" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="22732:22753" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="22777:22796" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="22801:22897" ph="/* Calculate the angle. The output is in radians ... */" />
-                <marker date="1521473836000" expanded="true" signature="22955:23111" ph="/* Convert a plane defined by 3 points to a plane defined by a vector and a point. ... */" />
-                <marker date="1521473836000" expanded="true" signature="23245:24211" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="23838:24093" ph="/* Calculate the intersection between the two lines. This will be the center ... */" />
-                <marker date="1521473836000" expanded="true" signature="24313:24349" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="24441:24472" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="24570:24604" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="24701:24775" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="24865:24994" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="24998:25547" ph="/* This is an alternative for Quaternion.LookRotation. Instead of aligning the forward and up vector of the game ... */" />
-                <marker date="1521473836000" expanded="true" signature="25711:26196" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="25845:26006" ph="/* Set the rotation of the custom normal and up vectors. ... */" />
-                <marker date="1521473836000" expanded="true" signature="26200:26749" ph="/* This function transforms one object as if it was parented to the other. ... */" />
-                <marker date="1521473836000" expanded="true" signature="27017:27723" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="27727:28514" ph="/* With this function you can align a triangle of an object with any transform. ... */" />
-                <marker date="1521473836000" expanded="true" signature="28731:29289" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="29502:29661" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="29665:30153" ph="/* This function finds out on which side of a line segment the point is located. ... */" />
-                <marker date="1521473836000" expanded="true" signature="30257:30856" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="30469:30685" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="30553:30575" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="30651:30681" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="30690:30825" ph="/* Point is not on side of linePoint2, compared to linePoint1. ... */" />
-                <marker date="1521473836000" expanded="true" signature="30825:30853" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="30862:31095" ph="/* Returns the pixel distance from the mouse pointer to a line. ... */" />
-                <marker date="1521473836000" expanded="true" signature="31176:32026" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="31276:31318" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="31320:31366" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="32032:32364" ph="/* Returns the pixel distance from the mouse pointer to a camera facing circle. ... */" />
-                <marker date="1521473836000" expanded="true" signature="32436:33185" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="32536:32578" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="32580:32626" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="33259:33717" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="33371:33695" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="33719:34026" ph="/* Returns true if a line segment (made up of linePoint1 and linePoint2) is fully or partially in a rectangle ... */" />
-                <marker date="1521473836000" expanded="true" signature="34164:35041" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="34326:34411" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="34516:35006" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="34941:34966" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="34968:35002" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="35008:35038" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="35045:35253" ph="/* Returns true if &quot;point&quot; is in a rectangle mad up of RectA to RectD. The line point is assumed to be on the sam ... */" />
-                <marker date="1521473836000" expanded="true" signature="35367:36137" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="36078:36101" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="36103:36134" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="36141:36313" ph="/* Returns true if line segment made up of pointA1 and pointA2 is crossing line segment made up of ... */" />
-                <marker date="1521473836000" expanded="true" signature="36425:37083" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="36768:37024" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="36959:36984" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="36986:37020" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="37049:37080" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="37087:37644" ph="/* This function calculates the acceleration vector in meter/second^2. ... */" />
-                <marker date="1521473836000" expanded="true" signature="37734:40037" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="37892:38030" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
-                <marker date="1521473836000" expanded="true" signature="38048:38071" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="38119:38211" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="38216:38457" ph="/* Fill the position and time sample array and shift the location in the array to the left ... */" />
-                <marker date="1521473836000" expanded="true" signature="38512:38613" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="38880:40001" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="38976:39602" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="39176:39204" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="39399:39427" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="40003:40034" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="40043:41536" ph="/* This function calculates angular acceleration in object space as deg/second^2, encoded as a vector. ... */" />
-                <marker date="1521473836000" expanded="true" signature="41630:44009" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="41791:41929" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
-                <marker date="1521473836000" expanded="true" signature="41947:41970" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="42018:42113" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="42118:42359" ph="/* Fill the rotation and time sample array and shift the location in the array to the left ... */" />
-                <marker date="1521473836000" expanded="true" signature="42414:42515" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="42782:43973" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="42878:43574" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="43095:43123" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="43353:43381" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="43975:44006" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="44013:44146" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
-                <marker date="1521473836000" expanded="true" signature="44218:44265" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="44269:44402" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
-                <marker date="1521473836000" expanded="true" signature="44493:44620" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="44624:44700" ph="/* Convert a rotation difference to a speed vector. ... */" />
-                <marker date="1521473836000" expanded="true" signature="44780:45292" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="44857:44895" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="44897:44951" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="44992:45030" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="45032:45086" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="45127:45165" ph="{...}" />
-                <marker date="1521473836000" expanded="true" signature="45167:45221" ph="{...}" />
+                <marker date="1521643554000" expanded="false" signature="6:132" ph="..." />
+                <marker date="1521643554000" expanded="true" signature="180:11197" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="726:881" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="817:875" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="962:1212" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="1239:1557" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="1286:1454" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="1496:1551" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="1597:1805" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="1861:3005" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="1943:2074" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="3069:3198" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="3346:4055" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="3417:4018" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="3472:4008" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="3695:3891" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="4191:5395" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="4549:4964" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="4789:4954" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="5487:5770" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="5541:5741" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="5674:5731" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="6011:8068" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="6339:7766" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="6584:6971" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="8183:8378" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="8512:8622" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="8763:10441" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="9182:10210" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="9237:10200" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="9311:10161" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="9755:9909" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="10246:10313" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="10496:10610" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="10532:10580" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="10665:10779" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="10701:10749" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="10919:11102" ph="{...}" />
+                <marker date="1521643554000" expanded="true" signature="11141:11195" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -247,10 +127,10 @@
       <file leaf-file-name="AlphaMaskToTexture.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AlphaMaskToTexture.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding>
-                <marker date="1521458581000" expanded="false" signature="6:71" ph="..." />
+                <marker date="1521458581000" expanded="true" signature="6:71" ph="..." />
                 <marker date="1521458581000" expanded="true" signature="105:1480" ph="{...}" />
                 <marker date="1521458581000" expanded="true" signature="143:1478" ph="{...}" />
                 <marker date="1521458581000" expanded="true" signature="325:502" ph="{...}" />
@@ -266,36 +146,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>CreateSphereInPos</find>
-      <find>createc</find>
-      <find>_fixedAlphaPoints</find>
-      <find>_maskTransparencies</find>
-      <find>_maskTransparencie</find>
-      <find>GetMaskBorder</find>
-      <find>creates</find>
-      <find>createcu</find>
-      <find>_minMaskSize</find>
-      <find>_maxMaskSize</find>
+      <find>sort</find>
       <find>_maxMaskSizeY</find>
-      <find>textureColors</find>
-      <find>rgba</find>
+      <find>RemoveDoubles</find>
+      <find>RoundNumberVector3</find>
+      <find>RoundNumber</find>
+      <find>OrderListByXAndY</find>
+      <find>orde</find>
+      <find>finalP</find>
+      <find>s</find>
+      <find>vector</find>
+      <find>_boundMinimumMask</find>
+      <find>getmi</find>
+      <find>order</find>
+      <find>_XMaxByYOrder</find>
+      <find>poly</find>
+      <find>GetMaskBounds</find>
+      <find>borderPositions</find>
+      <find>GetMaskBorder</find>
+      <find>SetTranparencies</find>
+      <find>minimumInterpolatedMask</find>
+      <find>ProjectPointOnLineSegmentCheck</find>
+      <find>gettras</find>
       <find>_initialMaskPos</find>
-      <find>_maxMaskSizeX</find>
-      <find>GetMax</find>
-      <find>gerttra</find>
-      <find>deb</find>
-      <find>debug.</find>
       <find>DistancePointToLine</find>
-      <find>_interpolationFactor</find>
+      <find>drawlin</find>
+      <find>_smallMaskSurfacePoints</find>
+      <find>CheckIfPointInsideMinimumMask</find>
+      <find>_result</find>
+      <find>textureColors</find>
       <find>pow</find>
-      <find>_maximumFactor</find>
-      <find>maximumFactor</find>
-      <find>GetInterpolateMask</find>
-      <find>interpolationFactor</find>
-      <find>_minimumFactor</find>
-      <find>minimumFactor</find>
-      <find>ProjectPointOnLineSegment</find>
-      <find>PolyContainsPoint</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -307,6 +187,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AlphaMaskToTexture.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Math3D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextureScale.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vector3DebuggerPoints.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Downloads/drive-download-20180319T093446Z-001/LimitForTexture.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs" root0="FORCE_HIGHLIGHTING" />
@@ -316,8 +197,11 @@
       <list>
         <option value="$USER_HOME$/Downloads/drive-download-20180319T093446Z-001/LimitForTexture.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AlphaMaskToTexture.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Math3D.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Vector3DebuggerPoints.cs" />
+        <option value="$USER_HOME$/Downloads/Bath/Assets/Scripts/GeneralFunctions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ListExamples.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Math3D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextureScale.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs" />
       </list>
     </option>
@@ -385,6 +269,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="SearchEverywhereHistoryKey" value="math3&#9;FILE&#9;file:///Users/danielcasado/Documents/Crisalix/TextureMaskInterpolation/Assets/Scripts/Math3D.cs" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -415,12 +300,13 @@
       <option name="presentableId" value="Default" />
       <updated>1521212223282</updated>
       <workItem from="1521212226277" duration="24017000" />
-      <workItem from="1521468020198" duration="31030000" />
+      <workItem from="1521468020198" duration="33230000" />
+      <workItem from="1521559388545" duration="23063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55047000" />
+    <option name="totallyTimeSpent" value="80310000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -477,206 +363,219 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1521556523000" expanded="true" signature="6:115" ph="..." />
-            <marker date="1521556523000" expanded="true" signature="163:10091" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="870:1096" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="1123:1360" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="1170:1354" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="1437:2433" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="1519:1650" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="2496:2625" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="2773:3461" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="2844:3424" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="2899:3414" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="3107:3297" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="3594:4637" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="3801:4209" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="4034:4199" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="4907:7099" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="5235:6797" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="5480:5867" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="7214:7409" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="7496:9335" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="7854:8912" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="7909:8902" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="7983:8863" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="8427:8668" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="9390:9504" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="9426:9474" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="9559:9673" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="9595:9643" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="9813:9996" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="10035:10089" ph="{...}" />
+            <marker date="1521643554000" expanded="false" signature="6:132" ph="..." />
+            <marker date="1521643554000" expanded="true" signature="180:11197" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="726:881" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="817:875" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="962:1212" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1239:1557" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1286:1454" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1496:1551" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1597:1805" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1861:3005" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1943:2074" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3069:3198" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3346:4055" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3417:4018" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3472:4008" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3695:3891" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="4191:5395" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="4549:4964" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="4789:4954" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="5487:5770" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="5541:5741" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="5674:5731" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="6011:8068" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="6339:7766" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="6584:6971" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="8183:8378" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="8512:8622" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="8763:10441" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="9182:10210" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="9237:10200" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="9311:10161" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="9755:9909" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10246:10313" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10496:10610" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10532:10580" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10665:10779" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10701:10749" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10919:11102" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="11141:11195" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Math3D.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13470">
-          <caret line="900" column="1" lean-forward="false" selection-start-line="900" selection-start-column="1" selection-end-line="900" selection-end-column="1" />
+        <state relative-caret-position="7920">
+          <caret line="530" column="23" lean-forward="false" selection-start-line="530" selection-start-column="23" selection-end-line="530" selection-end-column="23" />
           <folding>
-            <marker date="1521473836000" expanded="false" signature="6:66" ph="..." />
-            <marker date="1521473836000" expanded="true" signature="89:45294" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="479:965" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="969:1346" ph="/* Get a point on a Catmull-Rom spline. ... */" />
-            <marker date="1521473836000" expanded="true" signature="1424:2577" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="1477:2528" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="1973:2331" ph="/* The Catmull-Rom spline can be written as: ... */" />
-            <marker date="1521473836000" expanded="true" signature="2530:2574" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="2581:3798" ph="/* Finds the intersection points between a straight line and a spline. Solves a Cubic polynomial equation ... */" />
-            <marker date="1521473836000" expanded="true" signature="3890:9288" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="4001:4204" ph="/* The line spline intersection can only be calculated for one segment of a spline, meaning 4 control points, ... */" />
-            <marker date="1521473836000" expanded="true" signature="4245:9197" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="4443:5766" ph="/* The Catmull-Rom spline can be written as: ... */" />
-            <marker date="1521473836000" expanded="true" signature="6168:6459" ph="/* We now have two Cubic functions. One for x and one for y. ... */" />
-            <marker date="1521473836000" expanded="true" signature="6685:7108" ph="/* Substituting the values of x and y from the separated Spline formula into the Line formula, we get: ... */" />
-            <marker date="1521473836000" expanded="true" signature="7240:7583" ph="/* This is again a Cubic equation, combined from the Line and the Spline equation. If you solve this you can get  ... */" />
-            <marker date="1521473836000" expanded="true" signature="7687:7831" ph="/* Two different implementations of solving a Cubic equation. ... */" />
-            <marker date="1521473836000" expanded="true" signature="8224:8427" ph="/* Only use the result if it is within range 0 to 1. ... */" />
-            <marker date="1521473836000" expanded="true" signature="8463:8681" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="8719:8937" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="8975:9193" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="9292:9411" ph="/* Solve cubic equation according to Cardano. ... */" />
-            <marker date="1521473836000" expanded="true" signature="9538:10701" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="9952:10285" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="10309:10521" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="10523:10698" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="10815:10930" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="10835:10877" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="10879:10927" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="11054:11360" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="11489:11634" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="11760:11824" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="11925:11969" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="12145:12206" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="12396:12478" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="12482:12678" ph="/* Rotate a vector as if it is attached to an object with rotation &quot;from&quot;, which is then rotated to rotation &quot;to&quot; ... */" />
-            <marker date="1521473836000" expanded="true" signature="12768:13159" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="13163:13440" ph="/* Find the line of intersection between two planes.&#9;The planes are defined by a normal and a point on that plane ... */" />
-            <marker date="1521473836000" expanded="true" signature="13619:14910" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="13681:13957" ph="/* We can get the direction of the line of intersection of the two planes by calculating the ... */" />
-            <marker date="1521473836000" expanded="true" signature="14017:14401" ph="/* Next is to calculate a point on the line to fix it's position in space. This is done by finding a vector from ... */" />
-            <marker date="1521473836000" expanded="true" signature="14657:14855" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="14878:14907" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="14915:15053" ph="/* Get the intersection between a line and a plane. ... */" />
-            <marker date="1521473836000" expanded="true" signature="15198:15931" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="15591:15876" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="15899:15928" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="15935:16188" ph="/* Calculate the intersection point of two lines. Returns true if lines intersect, otherwise false. ... */" />
-            <marker date="1521473836000" expanded="true" signature="16331:16905" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="16682:16838" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="16845:16902" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="16909:17150" ph="/* Two non-parallel lines which may or may not touch each other have a point on each line which are closest ... */" />
-            <marker date="1521473836000" expanded="true" signature="17332:17955" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="17614:17921" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="17923:17952" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="17960:18135" ph="/* This function returns a point which is a projection from a point to a line. ... */" />
-            <marker date="1521473836000" expanded="true" signature="18228:18426" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="18430:18728" ph="/* This function returns a point which is a projection from a point to a line segment. ... */" />
-            <marker date="1521473836000" expanded="true" signature="18832:19294" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="19117:19150" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="19168:19197" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="19215:19244" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="19476:19897" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="20046:20120" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="20124:20279" ph="/* Get the shortest distance between a point and a plane. The output is signed so it holds information ... */" />
-            <marker date="1521473836000" expanded="true" signature="20381:20444" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="20449:20912" ph="/* This function calculates a signed (+ or - sign instead of being ambiguous) dot product. It is basically used ... */" />
-            <marker date="1521473836000" expanded="true" signature="21000:21359" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="21462:21907" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="21911:22025" ph="/* Calculate the angle between a vector and a plane. The plane is made by a normal vector. ... */" />
-            <marker date="1521473836000" expanded="true" signature="22095:22397" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="22505:22951" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="22732:22753" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="22777:22796" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="22801:22897" ph="/* Calculate the angle. The output is in radians ... */" />
-            <marker date="1521473836000" expanded="true" signature="22955:23111" ph="/* Convert a plane defined by 3 points to a plane defined by a vector and a point. ... */" />
-            <marker date="1521473836000" expanded="true" signature="23245:24211" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="23838:24093" ph="/* Calculate the intersection between the two lines. This will be the center ... */" />
-            <marker date="1521473836000" expanded="true" signature="24313:24349" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="24441:24472" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="24570:24604" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="24701:24775" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="24865:24994" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="24998:25547" ph="/* This is an alternative for Quaternion.LookRotation. Instead of aligning the forward and up vector of the game ... */" />
-            <marker date="1521473836000" expanded="true" signature="25711:26196" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="25845:26006" ph="/* Set the rotation of the custom normal and up vectors. ... */" />
-            <marker date="1521473836000" expanded="true" signature="26200:26749" ph="/* This function transforms one object as if it was parented to the other. ... */" />
-            <marker date="1521473836000" expanded="true" signature="27017:27723" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="27727:28514" ph="/* With this function you can align a triangle of an object with any transform. ... */" />
-            <marker date="1521473836000" expanded="true" signature="28731:29289" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="29502:29661" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="29665:30153" ph="/* This function finds out on which side of a line segment the point is located. ... */" />
-            <marker date="1521473836000" expanded="true" signature="30257:30856" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="30469:30685" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="30553:30575" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="30651:30681" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="30690:30825" ph="/* Point is not on side of linePoint2, compared to linePoint1. ... */" />
-            <marker date="1521473836000" expanded="true" signature="30825:30853" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="30862:31095" ph="/* Returns the pixel distance from the mouse pointer to a line. ... */" />
-            <marker date="1521473836000" expanded="true" signature="31176:32026" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="31276:31318" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="31320:31366" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="32032:32364" ph="/* Returns the pixel distance from the mouse pointer to a camera facing circle. ... */" />
-            <marker date="1521473836000" expanded="true" signature="32436:33185" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="32536:32578" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="32580:32626" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="33259:33717" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="33371:33695" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="33719:34026" ph="/* Returns true if a line segment (made up of linePoint1 and linePoint2) is fully or partially in a rectangle ... */" />
-            <marker date="1521473836000" expanded="true" signature="34164:35041" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="34326:34411" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="34516:35006" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="34941:34966" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="34968:35002" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="35008:35038" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="35045:35253" ph="/* Returns true if &quot;point&quot; is in a rectangle mad up of RectA to RectD. The line point is assumed to be on the sam ... */" />
-            <marker date="1521473836000" expanded="true" signature="35367:36137" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="36078:36101" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="36103:36134" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="36141:36313" ph="/* Returns true if line segment made up of pointA1 and pointA2 is crossing line segment made up of ... */" />
-            <marker date="1521473836000" expanded="true" signature="36425:37083" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="36768:37024" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="36959:36984" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="36986:37020" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="37049:37080" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="37087:37644" ph="/* This function calculates the acceleration vector in meter/second^2. ... */" />
-            <marker date="1521473836000" expanded="true" signature="37734:40037" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="37892:38030" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
-            <marker date="1521473836000" expanded="true" signature="38048:38071" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="38119:38211" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="38216:38457" ph="/* Fill the position and time sample array and shift the location in the array to the left ... */" />
-            <marker date="1521473836000" expanded="true" signature="38512:38613" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="38880:40001" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="38976:39602" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="39176:39204" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="39399:39427" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="40003:40034" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="40043:41536" ph="/* This function calculates angular acceleration in object space as deg/second^2, encoded as a vector. ... */" />
-            <marker date="1521473836000" expanded="true" signature="41630:44009" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="41791:41929" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
-            <marker date="1521473836000" expanded="true" signature="41947:41970" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="42018:42113" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="42118:42359" ph="/* Fill the rotation and time sample array and shift the location in the array to the left ... */" />
-            <marker date="1521473836000" expanded="true" signature="42414:42515" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="42782:43973" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="42878:43574" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="43095:43123" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="43353:43381" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="43975:44006" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="44013:44146" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
-            <marker date="1521473836000" expanded="true" signature="44218:44265" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="44269:44402" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
-            <marker date="1521473836000" expanded="true" signature="44493:44620" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="44624:44700" ph="/* Convert a rotation difference to a speed vector. ... */" />
-            <marker date="1521473836000" expanded="true" signature="44780:45292" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="44857:44895" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="44897:44951" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="44992:45030" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="45032:45086" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="45127:45165" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="45167:45221" ph="{...}" />
+            <marker date="1521629829000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1521629829000" expanded="true" signature="87:52819" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="500:981" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="987:1373" ph="/* Get a point on a Catmull-Rom spline. ... */" />
+            <marker date="1521629829000" expanded="true" signature="1453:2842" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="1520:2764" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="2114:2508" ph="/* The Catmull-Rom spline can be written as: ... */" />
+            <marker date="1521629829000" expanded="true" signature="2778:2836" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="2848:4092" ph="/* Finds the intersection points between a straight line and a spline. Solves a Cubic polynomial equation ... */" />
+            <marker date="1521629829000" expanded="true" signature="4186:10506" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="4322:4531" ph="/* The line spline intersection can only be calculated for one segment of a spline, meaning 4 control points, ... */" />
+            <marker date="1521629829000" expanded="true" signature="4577:10396" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="4835:6308" ph="/* The Catmull-Rom spline can be written as: ... */" />
+            <marker date="1521629829000" expanded="true" signature="6789:7124" ph="/* We now have two Cubic functions. One for x and one for y. ... */" />
+            <marker date="1521629829000" expanded="true" signature="7407:7873" ph="/* Substituting the values of x and y from the separated Spline formula into the Line formula, we get: ... */" />
+            <marker date="1521629829000" expanded="true" signature="8048:8418" ph="/* This is again a Cubic equation, combined from the Line and the Spline equation. If you solve this you can get  ... */" />
+            <marker date="1521629829000" expanded="true" signature="8574:8727" ph="/* Two different implementations of solving a Cubic equation. ... */" />
+            <marker date="1521629829000" expanded="true" signature="9176:9397" ph="/* Only use the result if it is within range 0 to 1. ... */" />
+            <marker date="1521629829000" expanded="true" signature="9441:9726" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="9771:10056" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="10101:10386" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="10512:10634" ph="/* Solve cubic equation according to Cardano. ... */" />
+            <marker date="1521629829000" expanded="true" signature="10771:12262" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="11274:11683" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="11711:12008" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12022:12256" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12380:12554" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12408:12472" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12486:12548" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12682:13039" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="13173:13347" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="13477:13557" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="13663:13723" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="13904:13983" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="14178:14277" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="14283:14482" ph="/* Rotate a vector as if it is attached to an object with rotation &quot;from&quot;, which is then rotated to rotation &quot;to&quot; ... */" />
+            <marker date="1521629829000" expanded="true" signature="14575:14983" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="14989:15272" ph="/* Find the line of intersection between two planes.&#9;The planes are defined by a normal and a point on that plane ... */" />
+            <marker date="1521629829000" expanded="true" signature="15462:16921" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="15544:15832" ph="/* We can get the direction of the line of intersection of the two planes by calculating the ... */" />
+            <marker date="1521629829000" expanded="true" signature="15903:16305" ph="/* Next is to calculate a point on the line to fix it's position in space. This is done by finding a vector from ... */" />
+            <marker date="1521629829000" expanded="true" signature="16582:16828" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="16869:16915" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="16927:17068" ph="/* Get the intersection between a line and a plane. ... */" />
+            <marker date="1521629829000" expanded="true" signature="17224:18120" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="17679:18027" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="18068:18114" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="18126:18385" ph="/* Calculate the intersection point of two lines. Returns true if lines intersect, otherwise false. ... */" />
+            <marker date="1521629829000" expanded="true" signature="18539:19229" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="18928:19123" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="19136:19223" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="19235:19482" ph="/* Two non-parallel lines which may or may not touch each other have a point on each line which are closest ... */" />
+            <marker date="1521629829000" expanded="true" signature="19675:20473" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="20010:20407" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="20421:20467" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="20479:20657" ph="/* This function returns a point which is a projection from a point to a line. ... */" />
+            <marker date="1521629829000" expanded="true" signature="20753:20977" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="20983:21290" ph="/* This function returns a point which is a projection from a point to a line segment. ... */" />
+            <marker date="1521629829000" expanded="true" signature="21397:21982" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="21713:21768" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="21792:21843" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="21867:21918" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22127:22363" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22465:22807" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22644:22778" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22711:22768" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22993:23476" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="23629:23715" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="23721:23879" ph="/* Get the shortest distance between a point and a plane. The output is signed so it holds information ... */" />
+            <marker date="1521629829000" expanded="true" signature="23984:24059" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="24065:24540" ph="/* This function calculates a signed (+ or - sign instead of being ambiguous) dot product. It is basically used ... */" />
+            <marker date="1521629829000" expanded="true" signature="24631:25035" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="25140:25636" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="25642:25759" ph="/* Calculate the angle between a vector and a plane. The plane is made by a normal vector. ... */" />
+            <marker date="1521629829000" expanded="true" signature="25832:26180" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="26293:26853" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="26558:26603" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="26628:26672" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="26682:26784" ph="/* Calculate the angle. The output is in radians ... */" />
+            <marker date="1521629829000" expanded="true" signature="26859:27018" ph="/* Convert a plane defined by 3 points to a plane defined by a vector and a point. ... */" />
+            <marker date="1521629829000" expanded="true" signature="27163:28244" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="27838:28111" ph="/* Calculate the intersection between the two lines. This will be the center ... */" />
+            <marker date="1521629829000" expanded="true" signature="28351:28399" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="28496:28539" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="28642:28688" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="28790:28874" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="28969:29116" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="29122:29686" ph="/* This is an alternative for Quaternion.LookRotation. Instead of aligning the forward and up vector of the game ... */" />
+            <marker date="1521629829000" expanded="true" signature="29861:30389" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="30013:30180" ph="/* Set the rotation of the custom normal and up vectors. ... */" />
+            <marker date="1521629829000" expanded="true" signature="30395:30962" ph="/* This function transforms one object as if it was parented to the other. ... */" />
+            <marker date="1521629829000" expanded="true" signature="31249:32052" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="32058:32866" ph="/* With this function you can align a triangle of an object with any transform. ... */" />
+            <marker date="1521629829000" expanded="true" signature="33094:33703" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="33928:34102" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="34108:34611" ph="/* This function finds out on which side of a line segment the point is located. ... */" />
+            <marker date="1521629829000" expanded="true" signature="34718:35503" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="34962:35291" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35072:35126" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35227:35281" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35301:35442" ph="/* Point is not on side of linePoint2, compared to linePoint1. ... */" />
+            <marker date="1521629829000" expanded="true" signature="35455:35497" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35510:35749" ph="/* Returns the pixel distance from the mouse pointer to a line. ... */" />
+            <marker date="1521629829000" expanded="true" signature="35833:36817" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35954:36018" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="36032:36093" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="36824:37165" ph="/* Returns the pixel distance from the mouse pointer to a camera facing circle. ... */" />
+            <marker date="1521629829000" expanded="true" signature="37240:38123" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="37361:37425" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="37439:37500" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="38206:39107" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="38622:39077" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="39113:39426" ph="/* Returns true if a line segment (made up of linePoint1 and linePoint2) is fully or partially in a rectangle ... */" />
+            <marker date="1521629829000" expanded="true" signature="39575:40672" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="39763:39870" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="39987:40607" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="40464:40521" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="40539:40597" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="40621:40666" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="40678:40889" ph="/* Returns true if &quot;point&quot; is in a rectangle mad up of RectA to RectD. The line point is assumed to be on the sam ... */" />
+            <marker date="1521629829000" expanded="true" signature="41006:41934" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="41823:41868" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="41882:41928" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="41940:42115" ph="/* Returns true if line segment made up of pointA1 and pointA2 is crossing line segment made up of ... */" />
+            <marker date="1521629829000" expanded="true" signature="42230:43102" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="42639:43007" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="42864:42921" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="42939:42997" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="43050:43096" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="43108:43683" ph="/* This function calculates the acceleration vector in meter/second^2. ... */" />
+            <marker date="1521629829000" expanded="true" signature="43776:46646" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="43978:44122" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
+            <marker date="1521629829000" expanded="true" signature="44147:44192" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="44252:44375" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="44385:44638" ph="/* Fill the position and time sample array and shift the location in the array to the left ... */" />
+            <marker date="1521629829000" expanded="true" signature="44700:44836" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="45133:46580" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="45255:46122" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="45518:45588" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="45838:45908" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="46594:46640" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="46653:48215" ph="/* This function calculates angular acceleration in object space as deg/second^2, encoded as a vector. ... */" />
+            <marker date="1521629829000" expanded="true" signature="48312:51258" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="48517:48661" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
+            <marker date="1521629829000" expanded="true" signature="48686:48731" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="48791:48917" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="48927:49180" ph="/* Fill the rotation and time sample array and shift the location in the array to the left ... */" />
+            <marker date="1521629829000" expanded="true" signature="49242:49378" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="49675:51192" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="49797:50734" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="50077:50147" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="50432:50502" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="51206:51252" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="51264:51400" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
+            <marker date="1521629829000" expanded="true" signature="51475:51539" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="51545:51681" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
+            <marker date="1521629829000" expanded="true" signature="51775:51942" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="51948:52027" ph="/* Convert a rotation difference to a speed vector. ... */" />
+            <marker date="1521629829000" expanded="true" signature="52110:52817" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52214:52274" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52288:52357" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52404:52464" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52478:52547" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52594:52654" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52668:52737" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -686,7 +585,245 @@
         <state relative-caret-position="345">
           <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
           <folding>
-            <marker date="1521458581000" expanded="false" signature="6:71" ph="..." />
+            <marker date="1521458581000" expanded="true" signature="6:71" ph="..." />
+            <marker date="1521458581000" expanded="true" signature="105:1480" ph="{...}" />
+            <marker date="1521458581000" expanded="true" signature="143:1478" ph="{...}" />
+            <marker date="1521458581000" expanded="true" signature="325:502" ph="{...}" />
+            <marker date="1521458581000" expanded="true" signature="575:1472" ph="{...}" />
+            <marker date="1521458581000" expanded="true" signature="681:738" ph="{...}" />
+            <marker date="1521458581000" expanded="true" signature="1125:1348" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521643554000" expanded="false" signature="6:132" ph="..." />
+            <marker date="1521643554000" expanded="true" signature="180:11197" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="726:881" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="817:875" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="962:1212" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1239:1557" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1286:1454" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1496:1551" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1597:1805" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1861:3005" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1943:2074" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3069:3198" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3346:4055" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3417:4018" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3472:4008" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3695:3891" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="4191:5395" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="4549:4964" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="4789:4954" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="5487:5770" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="5541:5741" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="5674:5731" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="6011:8068" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="6339:7766" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="6584:6971" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="8183:8378" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="8512:8622" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="8763:10441" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="9182:10210" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="9237:10200" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="9311:10161" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="9755:9909" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10246:10313" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10496:10610" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10532:10580" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10665:10779" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10701:10749" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10919:11102" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="11141:11195" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Math3D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13470">
+          <caret line="900" column="1" lean-forward="false" selection-start-line="900" selection-start-column="1" selection-end-line="900" selection-end-column="1" />
+          <folding>
+            <marker date="1521629829000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1521629829000" expanded="true" signature="87:52819" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="500:981" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="987:1373" ph="/* Get a point on a Catmull-Rom spline. ... */" />
+            <marker date="1521629829000" expanded="true" signature="1453:2842" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="1520:2764" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="2114:2508" ph="/* The Catmull-Rom spline can be written as: ... */" />
+            <marker date="1521629829000" expanded="true" signature="2778:2836" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="2848:4092" ph="/* Finds the intersection points between a straight line and a spline. Solves a Cubic polynomial equation ... */" />
+            <marker date="1521629829000" expanded="true" signature="4186:10506" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="4322:4531" ph="/* The line spline intersection can only be calculated for one segment of a spline, meaning 4 control points, ... */" />
+            <marker date="1521629829000" expanded="true" signature="4577:10396" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="4835:6308" ph="/* The Catmull-Rom spline can be written as: ... */" />
+            <marker date="1521629829000" expanded="true" signature="6789:7124" ph="/* We now have two Cubic functions. One for x and one for y. ... */" />
+            <marker date="1521629829000" expanded="true" signature="7407:7873" ph="/* Substituting the values of x and y from the separated Spline formula into the Line formula, we get: ... */" />
+            <marker date="1521629829000" expanded="true" signature="8048:8418" ph="/* This is again a Cubic equation, combined from the Line and the Spline equation. If you solve this you can get  ... */" />
+            <marker date="1521629829000" expanded="true" signature="8574:8727" ph="/* Two different implementations of solving a Cubic equation. ... */" />
+            <marker date="1521629829000" expanded="true" signature="9176:9397" ph="/* Only use the result if it is within range 0 to 1. ... */" />
+            <marker date="1521629829000" expanded="true" signature="9441:9726" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="9771:10056" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="10101:10386" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="10512:10634" ph="/* Solve cubic equation according to Cardano. ... */" />
+            <marker date="1521629829000" expanded="true" signature="10771:12262" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="11274:11683" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="11711:12008" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12022:12256" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12380:12554" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12408:12472" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12486:12548" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12682:13039" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="13173:13347" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="13477:13557" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="13663:13723" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="13904:13983" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="14178:14277" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="14283:14482" ph="/* Rotate a vector as if it is attached to an object with rotation &quot;from&quot;, which is then rotated to rotation &quot;to&quot; ... */" />
+            <marker date="1521629829000" expanded="true" signature="14575:14983" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="14989:15272" ph="/* Find the line of intersection between two planes.&#9;The planes are defined by a normal and a point on that plane ... */" />
+            <marker date="1521629829000" expanded="true" signature="15462:16921" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="15544:15832" ph="/* We can get the direction of the line of intersection of the two planes by calculating the ... */" />
+            <marker date="1521629829000" expanded="true" signature="15903:16305" ph="/* Next is to calculate a point on the line to fix it's position in space. This is done by finding a vector from ... */" />
+            <marker date="1521629829000" expanded="true" signature="16582:16828" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="16869:16915" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="16927:17068" ph="/* Get the intersection between a line and a plane. ... */" />
+            <marker date="1521629829000" expanded="true" signature="17224:18120" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="17679:18027" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="18068:18114" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="18126:18385" ph="/* Calculate the intersection point of two lines. Returns true if lines intersect, otherwise false. ... */" />
+            <marker date="1521629829000" expanded="true" signature="18539:19229" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="18928:19123" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="19136:19223" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="19235:19482" ph="/* Two non-parallel lines which may or may not touch each other have a point on each line which are closest ... */" />
+            <marker date="1521629829000" expanded="true" signature="19675:20473" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="20010:20407" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="20421:20467" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="20479:20657" ph="/* This function returns a point which is a projection from a point to a line. ... */" />
+            <marker date="1521629829000" expanded="true" signature="20753:20977" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="20983:21290" ph="/* This function returns a point which is a projection from a point to a line segment. ... */" />
+            <marker date="1521629829000" expanded="true" signature="21397:21982" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="21713:21768" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="21792:21843" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="21867:21918" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22127:22363" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22465:22807" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22644:22778" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22711:22768" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22993:23476" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="23629:23715" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="23721:23879" ph="/* Get the shortest distance between a point and a plane. The output is signed so it holds information ... */" />
+            <marker date="1521629829000" expanded="true" signature="23984:24059" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="24065:24540" ph="/* This function calculates a signed (+ or - sign instead of being ambiguous) dot product. It is basically used ... */" />
+            <marker date="1521629829000" expanded="true" signature="24631:25035" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="25140:25636" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="25642:25759" ph="/* Calculate the angle between a vector and a plane. The plane is made by a normal vector. ... */" />
+            <marker date="1521629829000" expanded="true" signature="25832:26180" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="26293:26853" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="26558:26603" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="26628:26672" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="26682:26784" ph="/* Calculate the angle. The output is in radians ... */" />
+            <marker date="1521629829000" expanded="true" signature="26859:27018" ph="/* Convert a plane defined by 3 points to a plane defined by a vector and a point. ... */" />
+            <marker date="1521629829000" expanded="true" signature="27163:28244" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="27838:28111" ph="/* Calculate the intersection between the two lines. This will be the center ... */" />
+            <marker date="1521629829000" expanded="true" signature="28351:28399" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="28496:28539" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="28642:28688" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="28790:28874" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="28969:29116" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="29122:29686" ph="/* This is an alternative for Quaternion.LookRotation. Instead of aligning the forward and up vector of the game ... */" />
+            <marker date="1521629829000" expanded="true" signature="29861:30389" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="30013:30180" ph="/* Set the rotation of the custom normal and up vectors. ... */" />
+            <marker date="1521629829000" expanded="true" signature="30395:30962" ph="/* This function transforms one object as if it was parented to the other. ... */" />
+            <marker date="1521629829000" expanded="true" signature="31249:32052" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="32058:32866" ph="/* With this function you can align a triangle of an object with any transform. ... */" />
+            <marker date="1521629829000" expanded="true" signature="33094:33703" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="33928:34102" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="34108:34611" ph="/* This function finds out on which side of a line segment the point is located. ... */" />
+            <marker date="1521629829000" expanded="true" signature="34718:35503" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="34962:35291" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35072:35126" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35227:35281" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35301:35442" ph="/* Point is not on side of linePoint2, compared to linePoint1. ... */" />
+            <marker date="1521629829000" expanded="true" signature="35455:35497" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35510:35749" ph="/* Returns the pixel distance from the mouse pointer to a line. ... */" />
+            <marker date="1521629829000" expanded="true" signature="35833:36817" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35954:36018" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="36032:36093" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="36824:37165" ph="/* Returns the pixel distance from the mouse pointer to a camera facing circle. ... */" />
+            <marker date="1521629829000" expanded="true" signature="37240:38123" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="37361:37425" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="37439:37500" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="38206:39107" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="38622:39077" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="39113:39426" ph="/* Returns true if a line segment (made up of linePoint1 and linePoint2) is fully or partially in a rectangle ... */" />
+            <marker date="1521629829000" expanded="true" signature="39575:40672" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="39763:39870" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="39987:40607" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="40464:40521" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="40539:40597" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="40621:40666" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="40678:40889" ph="/* Returns true if &quot;point&quot; is in a rectangle mad up of RectA to RectD. The line point is assumed to be on the sam ... */" />
+            <marker date="1521629829000" expanded="true" signature="41006:41934" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="41823:41868" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="41882:41928" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="41940:42115" ph="/* Returns true if line segment made up of pointA1 and pointA2 is crossing line segment made up of ... */" />
+            <marker date="1521629829000" expanded="true" signature="42230:43102" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="42639:43007" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="42864:42921" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="42939:42997" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="43050:43096" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="43108:43683" ph="/* This function calculates the acceleration vector in meter/second^2. ... */" />
+            <marker date="1521629829000" expanded="true" signature="43776:46646" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="43978:44122" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
+            <marker date="1521629829000" expanded="true" signature="44147:44192" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="44252:44375" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="44385:44638" ph="/* Fill the position and time sample array and shift the location in the array to the left ... */" />
+            <marker date="1521629829000" expanded="true" signature="44700:44836" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="45133:46580" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="45255:46122" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="45518:45588" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="45838:45908" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="46594:46640" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="46653:48215" ph="/* This function calculates angular acceleration in object space as deg/second^2, encoded as a vector. ... */" />
+            <marker date="1521629829000" expanded="true" signature="48312:51258" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="48517:48661" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
+            <marker date="1521629829000" expanded="true" signature="48686:48731" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="48791:48917" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="48927:49180" ph="/* Fill the rotation and time sample array and shift the location in the array to the left ... */" />
+            <marker date="1521629829000" expanded="true" signature="49242:49378" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="49675:51192" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="49797:50734" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="50077:50147" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="50432:50502" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="51206:51252" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="51264:51400" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
+            <marker date="1521629829000" expanded="true" signature="51475:51539" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="51545:51681" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
+            <marker date="1521629829000" expanded="true" signature="51775:51942" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="51948:52027" ph="/* Convert a rotation difference to a speed vector. ... */" />
+            <marker date="1521629829000" expanded="true" signature="52110:52817" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52214:52274" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52288:52357" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52404:52464" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52478:52547" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52594:52654" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52668:52737" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AlphaMaskToTexture.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <marker date="1521458581000" expanded="true" signature="6:71" ph="..." />
             <marker date="1521458581000" expanded="true" signature="105:1480" ph="{...}" />
             <marker date="1521458581000" expanded="true" signature="143:1478" ph="{...}" />
             <marker date="1521458581000" expanded="true" signature="325:502" ph="{...}" />
@@ -711,20 +848,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Vector3DebuggerPoints.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="89" lean-forward="false" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="486" column="16" lean-forward="true" selection-start-line="486" selection-start-column="16" selection-end-line="486" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Downloads/Bath/Assets/Scripts/GeneralFunctions.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="488" column="0" lean-forward="false" selection-start-line="488" selection-start-column="0" selection-end-line="495" selection-end-column="5" />
+        <state relative-caret-position="588">
+          <caret line="652" column="43" lean-forward="true" selection-start-line="652" selection-start-column="43" selection-end-line="652" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ListExamples.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AlphaMaskToTexture.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding>
-            <marker date="1521458581000" expanded="false" signature="6:71" ph="..." />
+            <marker date="1521458581000" expanded="true" signature="6:71" ph="..." />
             <marker date="1521458581000" expanded="true" signature="105:1480" ph="{...}" />
             <marker date="1521458581000" expanded="true" signature="143:1478" ph="{...}" />
             <marker date="1521458581000" expanded="true" signature="325:502" ph="{...}" />
@@ -735,234 +894,259 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Vector3DebuggerPoints.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Math3D.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="89" lean-forward="false" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
+        <state relative-caret-position="1002">
+          <caret line="530" column="23" lean-forward="false" selection-start-line="530" selection-start-column="23" selection-end-line="530" selection-end-column="23" />
           <folding>
-            <marker date="1521479840000" expanded="true" signature="52:1569" ph="{...}" />
-            <marker date="1521479840000" expanded="true" signature="100:1567" ph="{...}" />
-            <marker date="1521479840000" expanded="true" signature="198:320" ph="{...}" />
-            <marker date="1521479840000" expanded="true" signature="426:841" ph="{...}" />
-            <marker date="1521479840000" expanded="true" signature="931:1051" ph="{...}" />
-            <marker date="1521479840000" expanded="true" signature="1154:1561" ph="{...}" />
+            <marker date="1521629829000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1521629829000" expanded="true" signature="87:52819" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="500:981" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="987:1373" ph="/* Get a point on a Catmull-Rom spline. ... */" />
+            <marker date="1521629829000" expanded="true" signature="1453:2842" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="1520:2764" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="2114:2508" ph="/* The Catmull-Rom spline can be written as: ... */" />
+            <marker date="1521629829000" expanded="true" signature="2778:2836" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="2848:4092" ph="/* Finds the intersection points between a straight line and a spline. Solves a Cubic polynomial equation ... */" />
+            <marker date="1521629829000" expanded="true" signature="4186:10506" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="4322:4531" ph="/* The line spline intersection can only be calculated for one segment of a spline, meaning 4 control points, ... */" />
+            <marker date="1521629829000" expanded="true" signature="4577:10396" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="4835:6308" ph="/* The Catmull-Rom spline can be written as: ... */" />
+            <marker date="1521629829000" expanded="true" signature="6789:7124" ph="/* We now have two Cubic functions. One for x and one for y. ... */" />
+            <marker date="1521629829000" expanded="true" signature="7407:7873" ph="/* Substituting the values of x and y from the separated Spline formula into the Line formula, we get: ... */" />
+            <marker date="1521629829000" expanded="true" signature="8048:8418" ph="/* This is again a Cubic equation, combined from the Line and the Spline equation. If you solve this you can get  ... */" />
+            <marker date="1521629829000" expanded="true" signature="8574:8727" ph="/* Two different implementations of solving a Cubic equation. ... */" />
+            <marker date="1521629829000" expanded="true" signature="9176:9397" ph="/* Only use the result if it is within range 0 to 1. ... */" />
+            <marker date="1521629829000" expanded="true" signature="9441:9726" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="9771:10056" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="10101:10386" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="10512:10634" ph="/* Solve cubic equation according to Cardano. ... */" />
+            <marker date="1521629829000" expanded="true" signature="10771:12262" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="11274:11683" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="11711:12008" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12022:12256" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12380:12554" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12408:12472" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12486:12548" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="12682:13039" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="13173:13347" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="13477:13557" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="13663:13723" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="13904:13983" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="14178:14277" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="14283:14482" ph="/* Rotate a vector as if it is attached to an object with rotation &quot;from&quot;, which is then rotated to rotation &quot;to&quot; ... */" />
+            <marker date="1521629829000" expanded="true" signature="14575:14983" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="14989:15272" ph="/* Find the line of intersection between two planes.&#9;The planes are defined by a normal and a point on that plane ... */" />
+            <marker date="1521629829000" expanded="true" signature="15462:16921" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="15544:15832" ph="/* We can get the direction of the line of intersection of the two planes by calculating the ... */" />
+            <marker date="1521629829000" expanded="true" signature="15903:16305" ph="/* Next is to calculate a point on the line to fix it's position in space. This is done by finding a vector from ... */" />
+            <marker date="1521629829000" expanded="true" signature="16582:16828" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="16869:16915" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="16927:17068" ph="/* Get the intersection between a line and a plane. ... */" />
+            <marker date="1521629829000" expanded="true" signature="17224:18120" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="17679:18027" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="18068:18114" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="18126:18385" ph="/* Calculate the intersection point of two lines. Returns true if lines intersect, otherwise false. ... */" />
+            <marker date="1521629829000" expanded="true" signature="18539:19229" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="18928:19123" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="19136:19223" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="19235:19482" ph="/* Two non-parallel lines which may or may not touch each other have a point on each line which are closest ... */" />
+            <marker date="1521629829000" expanded="true" signature="19675:20473" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="20010:20407" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="20421:20467" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="20479:20657" ph="/* This function returns a point which is a projection from a point to a line. ... */" />
+            <marker date="1521629829000" expanded="true" signature="20753:20977" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="20983:21290" ph="/* This function returns a point which is a projection from a point to a line segment. ... */" />
+            <marker date="1521629829000" expanded="true" signature="21397:21982" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="21713:21768" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="21792:21843" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="21867:21918" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22127:22363" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22465:22807" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22644:22778" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22711:22768" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="22993:23476" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="23629:23715" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="23721:23879" ph="/* Get the shortest distance between a point and a plane. The output is signed so it holds information ... */" />
+            <marker date="1521629829000" expanded="true" signature="23984:24059" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="24065:24540" ph="/* This function calculates a signed (+ or - sign instead of being ambiguous) dot product. It is basically used ... */" />
+            <marker date="1521629829000" expanded="true" signature="24631:25035" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="25140:25636" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="25642:25759" ph="/* Calculate the angle between a vector and a plane. The plane is made by a normal vector. ... */" />
+            <marker date="1521629829000" expanded="true" signature="25832:26180" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="26293:26853" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="26558:26603" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="26628:26672" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="26682:26784" ph="/* Calculate the angle. The output is in radians ... */" />
+            <marker date="1521629829000" expanded="true" signature="26859:27018" ph="/* Convert a plane defined by 3 points to a plane defined by a vector and a point. ... */" />
+            <marker date="1521629829000" expanded="true" signature="27163:28244" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="27838:28111" ph="/* Calculate the intersection between the two lines. This will be the center ... */" />
+            <marker date="1521629829000" expanded="true" signature="28351:28399" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="28496:28539" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="28642:28688" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="28790:28874" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="28969:29116" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="29122:29686" ph="/* This is an alternative for Quaternion.LookRotation. Instead of aligning the forward and up vector of the game ... */" />
+            <marker date="1521629829000" expanded="true" signature="29861:30389" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="30013:30180" ph="/* Set the rotation of the custom normal and up vectors. ... */" />
+            <marker date="1521629829000" expanded="true" signature="30395:30962" ph="/* This function transforms one object as if it was parented to the other. ... */" />
+            <marker date="1521629829000" expanded="true" signature="31249:32052" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="32058:32866" ph="/* With this function you can align a triangle of an object with any transform. ... */" />
+            <marker date="1521629829000" expanded="true" signature="33094:33703" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="33928:34102" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="34108:34611" ph="/* This function finds out on which side of a line segment the point is located. ... */" />
+            <marker date="1521629829000" expanded="true" signature="34718:35503" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="34962:35291" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35072:35126" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35227:35281" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35301:35442" ph="/* Point is not on side of linePoint2, compared to linePoint1. ... */" />
+            <marker date="1521629829000" expanded="true" signature="35455:35497" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35510:35749" ph="/* Returns the pixel distance from the mouse pointer to a line. ... */" />
+            <marker date="1521629829000" expanded="true" signature="35833:36817" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="35954:36018" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="36032:36093" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="36824:37165" ph="/* Returns the pixel distance from the mouse pointer to a camera facing circle. ... */" />
+            <marker date="1521629829000" expanded="true" signature="37240:38123" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="37361:37425" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="37439:37500" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="38206:39107" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="38622:39077" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="39113:39426" ph="/* Returns true if a line segment (made up of linePoint1 and linePoint2) is fully or partially in a rectangle ... */" />
+            <marker date="1521629829000" expanded="true" signature="39575:40672" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="39763:39870" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="39987:40607" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="40464:40521" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="40539:40597" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="40621:40666" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="40678:40889" ph="/* Returns true if &quot;point&quot; is in a rectangle mad up of RectA to RectD. The line point is assumed to be on the sam ... */" />
+            <marker date="1521629829000" expanded="true" signature="41006:41934" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="41823:41868" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="41882:41928" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="41940:42115" ph="/* Returns true if line segment made up of pointA1 and pointA2 is crossing line segment made up of ... */" />
+            <marker date="1521629829000" expanded="true" signature="42230:43102" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="42639:43007" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="42864:42921" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="42939:42997" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="43050:43096" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="43108:43683" ph="/* This function calculates the acceleration vector in meter/second^2. ... */" />
+            <marker date="1521629829000" expanded="true" signature="43776:46646" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="43978:44122" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
+            <marker date="1521629829000" expanded="true" signature="44147:44192" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="44252:44375" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="44385:44638" ph="/* Fill the position and time sample array and shift the location in the array to the left ... */" />
+            <marker date="1521629829000" expanded="true" signature="44700:44836" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="45133:46580" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="45255:46122" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="45518:45588" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="45838:45908" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="46594:46640" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="46653:48215" ph="/* This function calculates angular acceleration in object space as deg/second^2, encoded as a vector. ... */" />
+            <marker date="1521629829000" expanded="true" signature="48312:51258" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="48517:48661" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
+            <marker date="1521629829000" expanded="true" signature="48686:48731" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="48791:48917" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="48927:49180" ph="/* Fill the rotation and time sample array and shift the location in the array to the left ... */" />
+            <marker date="1521629829000" expanded="true" signature="49242:49378" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="49675:51192" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="49797:50734" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="50077:50147" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="50432:50502" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="51206:51252" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="51264:51400" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
+            <marker date="1521629829000" expanded="true" signature="51475:51539" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="51545:51681" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
+            <marker date="1521629829000" expanded="true" signature="51775:51942" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="51948:52027" ph="/* Convert a rotation difference to a speed vector. ... */" />
+            <marker date="1521629829000" expanded="true" signature="52110:52817" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52214:52274" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52288:52357" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52404:52464" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52478:52547" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52594:52654" ph="{...}" />
+            <marker date="1521629829000" expanded="true" signature="52668:52737" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TextureScale.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="486" column="16" lean-forward="true" selection-start-line="486" selection-start-column="16" selection-end-line="486" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Math3D.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="479" column="53" lean-forward="false" selection-start-line="479" selection-start-column="53" selection-end-line="479" selection-end-column="53" />
+        <state relative-caret-position="194">
+          <caret line="40" column="103" lean-forward="true" selection-start-line="40" selection-start-column="103" selection-end-line="40" selection-end-column="103" />
           <folding>
-            <marker date="1521473836000" expanded="false" signature="6:66" ph="..." />
-            <marker date="1521473836000" expanded="true" signature="89:45294" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="479:965" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="969:1346" ph="/* Get a point on a Catmull-Rom spline. ... */" />
-            <marker date="1521473836000" expanded="true" signature="1424:2577" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="1477:2528" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="1973:2331" ph="/* The Catmull-Rom spline can be written as: ... */" />
-            <marker date="1521473836000" expanded="true" signature="2530:2574" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="2581:3798" ph="/* Finds the intersection points between a straight line and a spline. Solves a Cubic polynomial equation ... */" />
-            <marker date="1521473836000" expanded="true" signature="3890:9288" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="4001:4204" ph="/* The line spline intersection can only be calculated for one segment of a spline, meaning 4 control points, ... */" />
-            <marker date="1521473836000" expanded="true" signature="4245:9197" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="4443:5766" ph="/* The Catmull-Rom spline can be written as: ... */" />
-            <marker date="1521473836000" expanded="true" signature="6168:6459" ph="/* We now have two Cubic functions. One for x and one for y. ... */" />
-            <marker date="1521473836000" expanded="true" signature="6685:7108" ph="/* Substituting the values of x and y from the separated Spline formula into the Line formula, we get: ... */" />
-            <marker date="1521473836000" expanded="true" signature="7240:7583" ph="/* This is again a Cubic equation, combined from the Line and the Spline equation. If you solve this you can get  ... */" />
-            <marker date="1521473836000" expanded="true" signature="7687:7831" ph="/* Two different implementations of solving a Cubic equation. ... */" />
-            <marker date="1521473836000" expanded="true" signature="8224:8427" ph="/* Only use the result if it is within range 0 to 1. ... */" />
-            <marker date="1521473836000" expanded="true" signature="8463:8681" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="8719:8937" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="8975:9193" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="9292:9411" ph="/* Solve cubic equation according to Cardano. ... */" />
-            <marker date="1521473836000" expanded="true" signature="9538:10701" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="9952:10285" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="10309:10521" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="10523:10698" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="10815:10930" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="10835:10877" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="10879:10927" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="11054:11360" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="11489:11634" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="11760:11824" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="11925:11969" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="12145:12206" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="12396:12478" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="12482:12678" ph="/* Rotate a vector as if it is attached to an object with rotation &quot;from&quot;, which is then rotated to rotation &quot;to&quot; ... */" />
-            <marker date="1521473836000" expanded="true" signature="12768:13159" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="13163:13440" ph="/* Find the line of intersection between two planes.&#9;The planes are defined by a normal and a point on that plane ... */" />
-            <marker date="1521473836000" expanded="true" signature="13619:14910" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="13681:13957" ph="/* We can get the direction of the line of intersection of the two planes by calculating the ... */" />
-            <marker date="1521473836000" expanded="true" signature="14017:14401" ph="/* Next is to calculate a point on the line to fix it's position in space. This is done by finding a vector from ... */" />
-            <marker date="1521473836000" expanded="true" signature="14657:14855" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="14878:14907" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="14915:15053" ph="/* Get the intersection between a line and a plane. ... */" />
-            <marker date="1521473836000" expanded="true" signature="15198:15931" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="15591:15876" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="15899:15928" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="15935:16188" ph="/* Calculate the intersection point of two lines. Returns true if lines intersect, otherwise false. ... */" />
-            <marker date="1521473836000" expanded="true" signature="16331:16905" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="16682:16838" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="16845:16902" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="16909:17150" ph="/* Two non-parallel lines which may or may not touch each other have a point on each line which are closest ... */" />
-            <marker date="1521473836000" expanded="true" signature="17332:17955" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="17614:17921" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="17923:17952" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="17960:18135" ph="/* This function returns a point which is a projection from a point to a line. ... */" />
-            <marker date="1521473836000" expanded="true" signature="18228:18426" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="18430:18728" ph="/* This function returns a point which is a projection from a point to a line segment. ... */" />
-            <marker date="1521473836000" expanded="true" signature="18832:19294" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="19117:19150" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="19168:19197" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="19215:19244" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="19476:19897" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="20046:20120" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="20124:20279" ph="/* Get the shortest distance between a point and a plane. The output is signed so it holds information ... */" />
-            <marker date="1521473836000" expanded="true" signature="20381:20444" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="20449:20912" ph="/* This function calculates a signed (+ or - sign instead of being ambiguous) dot product. It is basically used ... */" />
-            <marker date="1521473836000" expanded="true" signature="21000:21359" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="21462:21907" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="21911:22025" ph="/* Calculate the angle between a vector and a plane. The plane is made by a normal vector. ... */" />
-            <marker date="1521473836000" expanded="true" signature="22095:22397" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="22505:22951" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="22732:22753" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="22777:22796" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="22801:22897" ph="/* Calculate the angle. The output is in radians ... */" />
-            <marker date="1521473836000" expanded="true" signature="22955:23111" ph="/* Convert a plane defined by 3 points to a plane defined by a vector and a point. ... */" />
-            <marker date="1521473836000" expanded="true" signature="23245:24211" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="23838:24093" ph="/* Calculate the intersection between the two lines. This will be the center ... */" />
-            <marker date="1521473836000" expanded="true" signature="24313:24349" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="24441:24472" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="24570:24604" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="24701:24775" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="24865:24994" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="24998:25547" ph="/* This is an alternative for Quaternion.LookRotation. Instead of aligning the forward and up vector of the game ... */" />
-            <marker date="1521473836000" expanded="true" signature="25711:26196" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="25845:26006" ph="/* Set the rotation of the custom normal and up vectors. ... */" />
-            <marker date="1521473836000" expanded="true" signature="26200:26749" ph="/* This function transforms one object as if it was parented to the other. ... */" />
-            <marker date="1521473836000" expanded="true" signature="27017:27723" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="27727:28514" ph="/* With this function you can align a triangle of an object with any transform. ... */" />
-            <marker date="1521473836000" expanded="true" signature="28731:29289" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="29502:29661" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="29665:30153" ph="/* This function finds out on which side of a line segment the point is located. ... */" />
-            <marker date="1521473836000" expanded="true" signature="30257:30856" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="30469:30685" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="30553:30575" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="30651:30681" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="30690:30825" ph="/* Point is not on side of linePoint2, compared to linePoint1. ... */" />
-            <marker date="1521473836000" expanded="true" signature="30825:30853" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="30862:31095" ph="/* Returns the pixel distance from the mouse pointer to a line. ... */" />
-            <marker date="1521473836000" expanded="true" signature="31176:32026" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="31276:31318" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="31320:31366" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="32032:32364" ph="/* Returns the pixel distance from the mouse pointer to a camera facing circle. ... */" />
-            <marker date="1521473836000" expanded="true" signature="32436:33185" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="32536:32578" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="32580:32626" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="33259:33717" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="33371:33695" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="33719:34026" ph="/* Returns true if a line segment (made up of linePoint1 and linePoint2) is fully or partially in a rectangle ... */" />
-            <marker date="1521473836000" expanded="true" signature="34164:35041" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="34326:34411" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="34516:35006" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="34941:34966" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="34968:35002" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="35008:35038" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="35045:35253" ph="/* Returns true if &quot;point&quot; is in a rectangle mad up of RectA to RectD. The line point is assumed to be on the sam ... */" />
-            <marker date="1521473836000" expanded="true" signature="35367:36137" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="36078:36101" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="36103:36134" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="36141:36313" ph="/* Returns true if line segment made up of pointA1 and pointA2 is crossing line segment made up of ... */" />
-            <marker date="1521473836000" expanded="true" signature="36425:37083" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="36768:37024" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="36959:36984" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="36986:37020" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="37049:37080" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="37087:37644" ph="/* This function calculates the acceleration vector in meter/second^2. ... */" />
-            <marker date="1521473836000" expanded="true" signature="37734:40037" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="37892:38030" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
-            <marker date="1521473836000" expanded="true" signature="38048:38071" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="38119:38211" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="38216:38457" ph="/* Fill the position and time sample array and shift the location in the array to the left ... */" />
-            <marker date="1521473836000" expanded="true" signature="38512:38613" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="38880:40001" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="38976:39602" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="39176:39204" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="39399:39427" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="40003:40034" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="40043:41536" ph="/* This function calculates angular acceleration in object space as deg/second^2, encoded as a vector. ... */" />
-            <marker date="1521473836000" expanded="true" signature="41630:44009" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="41791:41929" ph="/* Clamp sample amount. In order to calculate acceleration we need at least 2 changes ... */" />
-            <marker date="1521473836000" expanded="true" signature="41947:41970" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="42018:42113" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="42118:42359" ph="/* Fill the rotation and time sample array and shift the location in the array to the left ... */" />
-            <marker date="1521473836000" expanded="true" signature="42414:42515" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="42782:43973" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="42878:43574" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="43095:43123" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="43353:43381" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="43975:44006" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="44013:44146" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
-            <marker date="1521473836000" expanded="true" signature="44218:44265" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="44269:44402" ph="/* Get y from a linear function, with x as an input. The linear function goes through points ... */" />
-            <marker date="1521473836000" expanded="true" signature="44493:44620" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="44624:44700" ph="/* Convert a rotation difference to a speed vector. ... */" />
-            <marker date="1521473836000" expanded="true" signature="44780:45292" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="44857:44895" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="44897:44951" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="44992:45030" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="45032:45086" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="45127:45165" ph="{...}" />
-            <marker date="1521473836000" expanded="true" signature="45167:45221" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="32:5301" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="126:166" ph="..." />
+            <marker date="1521633072000" expanded="true" signature="197:5299" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="235:438" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="348:428" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="812:892" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="973:1052" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="1157:3423" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="1294:1464" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="1481:1625" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="1857:1927" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="1955:2911" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="2083:2494" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="2595:2678" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="2699:2779" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="2824:2897" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="2928:3243" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="3045:3128" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="3149:3229" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="3484:4429" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="3616:4328" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="3849:4314" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="4487:4993" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="4619:4892" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="4763:4878" ph="{...}" />
+            <marker date="1521633072000" expanded="true" signature="5075:5293" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TextureAlphaAdder.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="128" column="72" lean-forward="false" selection-start-line="128" selection-start-column="72" selection-end-line="128" selection-end-column="72" />
+        <state relative-caret-position="2385">
+          <caret line="164" column="0" lean-forward="true" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
           <folding>
-            <marker date="1521556523000" expanded="true" signature="6:115" ph="..." />
-            <marker date="1521556523000" expanded="true" signature="163:10091" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="870:1096" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="1123:1360" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="1170:1354" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="1437:2433" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="1519:1650" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="2496:2625" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="2773:3461" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="2844:3424" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="2899:3414" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="3107:3297" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="3594:4637" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="3801:4209" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="4034:4199" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="4907:7099" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="5235:6797" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="5480:5867" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="7214:7409" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="7496:9335" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="7854:8912" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="7909:8902" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="7983:8863" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="8427:8668" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="9390:9504" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="9426:9474" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="9559:9673" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="9595:9643" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="9813:9996" ph="{...}" />
-            <marker date="1521556523000" expanded="true" signature="10035:10089" ph="{...}" />
+            <marker date="1521643554000" expanded="false" signature="6:132" ph="..." />
+            <marker date="1521643554000" expanded="true" signature="180:11197" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="726:881" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="817:875" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="962:1212" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1239:1557" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1286:1454" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1496:1551" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1597:1805" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1861:3005" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="1943:2074" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3069:3198" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3346:4055" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3417:4018" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3472:4008" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="3695:3891" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="4191:5395" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="4549:4964" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="4789:4954" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="5487:5770" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="5541:5741" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="5674:5731" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="6011:8068" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="6339:7766" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="6584:6971" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="8183:8378" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="8512:8622" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="8763:10441" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="9182:10210" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="9237:10200" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="9311:10161" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="9755:9909" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10246:10313" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10496:10610" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10532:10580" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10665:10779" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10701:10749" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="10919:11102" ph="{...}" />
+            <marker date="1521643554000" expanded="true" signature="11141:11195" ph="{...}" />
           </folding>
         </state>
       </provider>

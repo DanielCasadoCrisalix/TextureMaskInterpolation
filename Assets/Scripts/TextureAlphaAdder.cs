@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using Crisalix.Visualization;
 using UnityEngine;
@@ -11,24 +12,35 @@ public class TextureAlphaAdder : MonoBehaviour
     [SerializeField] private Texture2D _bigMask;
     [SerializeField] private Texture2D _bodyTexture;
 
-    [SerializeField] float _minimumFactor = .3f;//one its maximum interior mask. Zero its center point
-    [SerializeField]float _maximumFactor = 1f;//one its maximum exterior mask
+    [SerializeField] float _maximumFactor = 1f; //one its maximum exterior mask
 
-    [SerializeField]  private float _interpolationFactor = 1.5f;
+    [SerializeField] private float _interpolationFactor = 1f;
 
     [SerializeField] private Texture2D _result;
     private int _height;
     private int _width;
-    private int _maxMaskSizeY;
-    private int _maxMaskSizeX;
     private Vector2 _initialMaskPos;
     private Vector2 _endMaskPos;
+
+    private struct IntVector2
+    {
+        public int X;
+        public int Y;
+
+        public IntVector2(int x, int y)
+        {
+            X = x;
+            Y = y;
+        }
+    }
+
+    private List<IntVector2> _smallMaskSurfacePoints;
 
     private void Start()
     {
         _width = _smallMask.width;
         _height = _smallMask.height;
-        Debug.Log("_width " + _width + "  _height " + _height);
+        Debug.Log(Application.dataPath + " _width " + _width + "  _height " + _height);
         _result = new Texture2D(_width, _height, TextureFormat.RGBA32, true);
     }
 
@@ -38,13 +50,25 @@ public class TextureAlphaAdder : MonoBehaviour
         {
             Debug.Log(Time.realtimeSinceStartup);
 
-            GetMaskedTexture(_minimumFactor, _maximumFactor);
+            GetMaskedTexture(_maximumFactor);
 
             Debug.Log(Time.realtimeSinceStartup);
         }
+
+        if (Input.GetKeyDown(KeyCode.B))
+        {
+            ExportTextureToFile();
+        }
     }
 
-    private void GetMaskedTexture(float minimumFactor, float maximumFactor)
+    private void ExportTextureToFile()
+    {
+        byte[] bytes = _result.EncodeToPNG();
+        string path = Application.dataPath + "Mask_" + _maximumFactor + "_" + _interpolationFactor + ".png";
+        File.WriteAllBytes(path, bytes);
+    }
+
+    private void GetMaskedTexture(float maximumFactor)
     {
         if (_bodyTexture.width != _width && _bodyTexture.height != _height)
         {
@@ -52,20 +76,26 @@ public class TextureAlphaAdder : MonoBehaviour
             return;
         }
 
+        _smallMaskSurfacePoints = new List<IntVector2>();
+
         List<Color> textureColors = _bodyTexture.GetPixels(0, 0, _width, _height).ToList();
-        Vector2 smallBorderMaskCenter;
-        Vector2 bigBorderMaskCenter;
-        List<Vector2> smallBorderMaskPositions = GetMaskBorder(_smallMask, out smallBorderMaskCenter);
-        List<Vector2> bigBorderMaskPositions = GetMaskBorder(_bigMask, out bigBorderMaskCenter);
+        Vector2 minPoint;
+        Vector2 maxPoint;
+
+        List<Vector2> smallBorderMaskPositions =
+            GetMaskBorder(_smallMask, out minPoint, out maxPoint, _smallMaskSurfacePoints);
+        Vector2 smallBorderMaskCenter = Vector2.Lerp(minPoint, maxPoint, 0.5f);
+
+        List<Vector2> bigBorderMaskPositions = GetMaskBorder(_bigMask, out minPoint, out maxPoint, null);
 
         List<Vector2> minimumInterpolatedMask;
         List<Vector2> interpolatedMask = GetInterpolateMask(bigBorderMaskPositions, smallBorderMaskPositions,
             maximumFactor,
-            smallBorderMaskCenter, minimumFactor, out minimumInterpolatedMask);
-
+            smallBorderMaskCenter, out minimumInterpolatedMask);
         textureColors = SetTranparencies(textureColors, interpolatedMask, minimumInterpolatedMask);
         CreateMaskTexture(textureColors);
     }
+
 
     private void CreateMaskTexture(List<Color> textureColors)
     {
@@ -83,11 +113,12 @@ public class TextureAlphaAdder : MonoBehaviour
         {
             for (int j = 0; j < _width; j++)
             {
-                Color color = textureColors[cntr];
+                Color color = textureColors[cntr];//Color.white;
                 float alpha = 0;
+
                 if (_initialMaskPos.x < j && j < _endMaskPos.x && _initialMaskPos.y < i && i < _endMaskPos.y)
                 {
-                    Vector2 point = new Vector2(j, i);
+                    IntVector2 point = new IntVector2(j, i);
                     alpha = GetPixelTranparency(point, interpolatedMask, minimumInterpolatedMask);
                 }
 
@@ -100,9 +131,12 @@ public class TextureAlphaAdder : MonoBehaviour
         return textureColors;
     }
 
-    private float GetPixelTranparency(Vector2 point, List<Vector2> interpolatedMask,
+    private float GetPixelTranparency(IntVector2 point, List<Vector2> interpolatedMask,
         List<Vector2> minimumInterpolatedMask)
     {
+        // if (CheckIfPointInsideMinimumMask(point, _smallMaskSurfacePoints)) return 1;
+
+        Vector2 pointFloatV2 = new Vector2(point.X, point.Y);
         int closestLineIndex = int.MaxValue;
         float minDifference = int.MaxValue;
         Vector2 pointOnLineProjection = Vector2.zero;
@@ -111,7 +145,7 @@ public class TextureAlphaAdder : MonoBehaviour
         {
             Vector2 pointOverLine;
             float difference =
-                DistancePointToLine(point, minimumInterpolatedMask[i], interpolatedMask[i], out pointOverLine);
+                DistancePointToLine(pointFloatV2, minimumInterpolatedMask[i], interpolatedMask[i], out pointOverLine);
 
             if (minDifference > difference)
             {
@@ -127,15 +161,29 @@ public class TextureAlphaAdder : MonoBehaviour
             (pointOnLineProjection - interpolatedMask[closestLineIndex]).magnitude;
 
         float alpha = (projectedToInterpolatedPoint / segmentMagnitude);
-        alpha =  Mathf.Pow(alpha, _interpolationFactor);
+        alpha = 1-Mathf.Pow(1-alpha, _interpolationFactor);
 
         return alpha;
     }
 
+    private bool CheckIfPointInsideMinimumMask(IntVector2 point, List<IntVector2> surface)
+    {
+        for (int i = 0; i < surface.Count; i++)
+        {
+            IntVector2 surfacePoint = surface[i];
+
+            if (surfacePoint.X == point.X && surfacePoint.Y == point.Y)
+            {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
     private List<Vector2> GetInterpolateMask(List<Vector2> bigBorderMaskPositions,
         List<Vector2> smallBorderMaskPositions,
-        float interpolationFactor, Vector2 smallBorderMaskCenter,
-        float minimumFactor, out List<Vector2> minimumInterpolatedMask)
+        float interpolationFactor, Vector2 smallBorderMaskCenter, out List<Vector2> minimumInterpolatedMask)
     {
         List<Vector2> interpolatedMask = new List<Vector2>();
         minimumInterpolatedMask = new List<Vector2>();
@@ -163,16 +211,15 @@ public class TextureAlphaAdder : MonoBehaviour
                 minDifference = difference;
             }
 
-            Vector2 minimumPoint = Vector2.Lerp( smallBorderMaskCenter,nearesPointInSmallMask, minimumFactor);
+            Vector2 minimumPoint = nearesPointInSmallMask;
             minimumPoint = new Vector2(Mathf.Round(minimumPoint.x), Mathf.Round(minimumPoint.y));
             minimumInterpolatedMask.Add(minimumPoint);
 
-            Vector2 interpolatedPoint = Vector2.Lerp(nearesPointInSmallMask,bigPoint, interpolationFactor);
+            Vector2 interpolatedPoint = Vector2.Lerp(nearesPointInSmallMask, bigPoint, interpolationFactor);
             interpolatedPoint = new Vector2(Mathf.Round(interpolatedPoint.x), Mathf.Round(interpolatedPoint.y));
             interpolatedMask.Add(interpolatedPoint);
 
-            Vector3DebuggerPoints.CreateSphereInPos(minimumPoint, Color.blue);
-            Vector3DebuggerPoints.CreateSphereInPos(interpolatedPoint, Color.red);
+            Debug.DrawLine(interpolatedPoint, minimumPoint, Color.green, 20);
 
             minX = GetMin(interpolatedPoint.x, minX);
             minY = GetMin(interpolatedPoint.y, minY);
@@ -196,9 +243,17 @@ public class TextureAlphaAdder : MonoBehaviour
         return (pointOverLine - point).sqrMagnitude;
     }
 
-    private List<Vector2> GetMaskBorder(Texture2D mask, out Vector2 borderMaskCenter)
+    private bool DistancePointToLineSegmentCheck(Vector2 point, Vector2 linepoint, Vector2 linepoint2,
+        out Vector2 overLine)
+    {
+        return Math3D.ProjectPointOnLineSegmentCheck(linepoint, linepoint2, point, out overLine);
+    }
+
+    private List<Vector2> GetMaskBorder(Texture2D mask, out Vector2 minPoint, out Vector2 maxPoint,
+        List<IntVector2> surfacePoints)
     {
         List<Vector2> borderPositions = new List<Vector2>();
+        List<IntVector2> surfaceXy = new List<IntVector2>();
 
         List<Color> arrayTexture = mask.GetPixels(0, 0, _width, _height).ToList();
 
@@ -223,7 +278,6 @@ public class TextureAlphaAdder : MonoBehaviour
                     if (!AllAroundPixelColorsAreWhite(arrayTexture, indexUp, indexDown, indexRight, indexLeft))
                     {
                         Vector3 pos = new Vector3(x, y, 5);
-                        // Vector3DebuggerPoints.CreateSphereInPos(pos, Color.yellow);
                         borderPositions.Add(pos);
                     }
 
@@ -231,19 +285,20 @@ public class TextureAlphaAdder : MonoBehaviour
                     minY = GetMin(y, minY);
                     maxX = GetMax(x, maxX);
                     maxY = GetMax(y, maxY);
+                    surfaceXy.Add(new IntVector2(x, y));
                 }
 
                 cntr++;
             }
         }
 
-        Vector2 maxim = new Vector3(maxX, maxY);
-        Vector2 minim = new Vector3(minX, minY);
+        if (surfacePoints != null)
+        {
+            surfacePoints.AddRange(surfaceXy);
+        }
 
-        borderMaskCenter = Vector2.Lerp(maxim, minim, 0.5f);
-        borderMaskCenter.x = Mathf.Round(borderMaskCenter.x);
-        borderMaskCenter.y = Mathf.Round(borderMaskCenter.y);
-        Vector3DebuggerPoints.CreateSphereInPos(borderMaskCenter, Color.blue, "borderMaskCenter");
+        minPoint = new Vector3(minX, minY);
+        maxPoint = new Vector3(maxX, maxY);
 
         return borderPositions;
     }
